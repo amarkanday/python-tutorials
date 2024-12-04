@@ -16,7 +16,7 @@ Key concepts and data anaysis
 * Hands-on Exercises: The tutorial includes exercises to apply learned concepts, encouraging practical implementation.
 
 #### Sample tests and solutions
-* Test 1 - 4 have sample test that you can expect for data science and ML interview, will solutions. Datasets are provided in the repository
+* Test 1 - 4 have sample test that you can expect for data science and ML interviews, with solutions. Datasets are provided in the repository
 
 #### Advanced topics 
 * Timeseries: Review of timeseries concepts and common packages
