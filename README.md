@@ -1,4 +1,4 @@
-# A guide to learn Pythin Data Science and Machine learning concepts, algorithms, sample tests with solutions.
+# A guide to learn Python Data Science and Machine learning concepts, algorithms, sample tests with solutions.
 
 ### A quick introduction to Data analysis and machine learning in Python 
 
@@ -16,7 +16,7 @@ Key concepts and data anaysis
 * Hands-on Exercises: The tutorial includes exercises to apply learned concepts, encouraging practical implementation.
 
 #### Sample tests and solutions
-* Test 1 - 4 have sample test that you can expect for data science and ML interviews will solutions. Datasets are provided in the repository
+* Test 1 - 4 have sample test that you can expect for data science and ML interview, will solutions. Datasets are provided in the repository
 
 #### Advanced topics 
 * Timeseries: Review of timeseries concepts and common packages
