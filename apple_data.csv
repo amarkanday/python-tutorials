@@ -1,0 +1,1501 @@
+session_id,user_id,timestamp,device_type,action,price,product_category,purchase
+1,103,2023-06-22 21:36:51,iPhone,view,1692.8,smartphone,0
+2,436,2023-05-10 00:41:01,iPhone,view,2988.78,smartphone,0
+3,349,2023-04-05 03:58:11,iPad,view,2441.3,tablet,0
+4,271,2023-04-25 13:00:04,iPhone,click,2567.64,smartphone,1
+5,107,2023-08-31 21:22:51,Mac,browse,1978.38,laptop,0
+6,72,2023-10-19 18:02:26,iPad,view,315.41,tablet,0
+7,189,2023-10-09 23:21:20,iPhone,purchase,778.24,smartphone,1
+8,21,2023-10-26 17:02:12,Apple Watch,click,2790.11,wearable,0
+9,103,2023-10-10 21:36:34,Mac,view,1224.48,laptop,0
+10,122,2023-03-10 08:34:01,iPhone,view,489.29,smartphone,0
+11,467,2023-05-28 13:32:38,iPad,click,2166.44,tablet,0
+12,215,2023-01-11 21:11:12,Mac,view,1037.78,laptop,0
+13,331,2023-09-11 10:27:23,Mac,browse,952.07,laptop,0
+14,459,2023-11-26 14:00:08,iPhone,browse,2994.33,smartphone,0
+15,88,2023-12-26 12:12:30,AirPods,click,2602.65,accessory,1
+16,373,2023-02-07 15:47:29,iPad,browse,1341.63,tablet,0
+17,100,2023-05-14 07:47:24,iPhone,click,2944.71,smartphone,1
+18,360,2023-07-19 04:26:37,iPhone,browse,2019.97,smartphone,0
+19,152,2023-01-23 22:09:11,iPhone,view,2277.4,smartphone,0
+20,131,2023-10-30 06:38:31,Mac,browse,287.27,laptop,0
+21,150,2023-12-12 15:25:33,iPhone,browse,539.62,smartphone,0
+22,309,2023-10-29 22:56:06,iPhone,purchase,1972.27,smartphone,1
+23,258,2023-12-29 04:02:51,Apple Watch,add_to_cart,2717.17,wearable,1
+24,344,2023-08-06 16:05:41,iPhone,view,1946.11,smartphone,0
+25,492,2023-05-21 16:06:45,iPhone,view,574.4,smartphone,0
+26,414,2023-04-14 23:57:30,iPhone,view,523.24,smartphone,0
+27,294,2023-07-29 16:18:32,iPhone,view,2563.56,smartphone,0
+28,386,2023-04-21 12:05:41,iPhone,view,589.19,smartphone,0
+29,192,2023-04-14 06:29:47,Mac,browse,1656.17,laptop,0
+30,444,2023-11-12 13:35:08,iPhone,view,302.95,smartphone,0
+31,277,2023-06-20 23:44:17,iPhone,click,424.96,smartphone,1
+32,161,2023-12-22 03:37:37,Mac,purchase,2082.25,laptop,1
+33,460,2023-11-20 17:47:08,Mac,browse,2129.4,laptop,0
+34,314,2023-05-13 15:28:51,iPad,click,1155.46,tablet,0
+35,22,2023-10-20 06:54:18,iPad,view,802.92,tablet,0
+36,253,2023-11-24 13:31:29,iPhone,view,2478.2,smartphone,0
+37,236,2023-05-07 12:23:58,iPad,browse,807.11,tablet,0
+38,345,2023-04-16 12:54:46,iPad,view,1717.22,tablet,0
+39,49,2023-04-02 05:42:47,iPhone,browse,2910.95,smartphone,0
+40,475,2023-10-14 08:15:39,Apple Watch,browse,613.13,wearable,0
+41,59,2023-02-20 16:03:24,iPhone,click,2834.39,smartphone,0
+42,170,2023-01-29 01:02:34,Mac,click,711.28,laptop,1
+43,476,2023-10-23 07:30:44,iPhone,view,1788.41,smartphone,0
+44,188,2023-10-24 18:41:00,Mac,add_to_cart,1255.0,laptop,0
+45,464,2023-08-02 18:35:12,Mac,browse,2901.77,laptop,0
+46,271,2023-09-24 02:25:06,Mac,browse,965.19,laptop,0
+47,190,2023-09-14 02:28:14,iPhone,view,1318.44,smartphone,0
+48,446,2023-10-29 05:00:37,iPad,browse,2951.99,tablet,1
+49,175,2023-04-11 23:19:46,iPad,browse,1701.65,tablet,0
+50,446,2023-12-12 22:45:42,Mac,browse,1606.87,laptop,0
+51,51,2023-04-20 14:20:12,iPad,browse,921.04,tablet,0
+52,364,2023-07-01 08:15:25,iPad,click,2163.52,tablet,1
+53,55,2023-11-09 01:38:46,iPad,browse,239.26,tablet,0
+54,244,2023-01-01 02:38:16,iPhone,view,337.68,smartphone,0
+55,320,2023-11-15 15:40:47,iPad,browse,1877.8,tablet,0
+56,131,2023-02-24 08:16:46,iPhone,view,1156.03,smartphone,0
+57,485,2023-05-29 11:28:41,AirPods,browse,2869.24,accessory,0
+58,307,2023-11-05 18:04:55,Mac,click,2728.84,laptop,0
+59,135,2023-05-17 06:17:36,AirPods,view,2198.09,accessory,0
+60,21,2023-07-21 15:19:07,iPhone,browse,2490.63,smartphone,0
+61,329,2023-11-09 13:47:46,Apple Watch,view,2068.2,wearable,0
+62,167,2023-04-27 22:52:48,Mac,browse,550.76,laptop,0
+63,274,2023-06-03 10:46:27,Mac,view,2343.29,laptop,0
+64,388,2023-10-18 17:29:06,Mac,browse,787.75,laptop,0
+65,89,2023-03-04 06:02:07,iPhone,add_to_cart,1104.96,smartphone,0
+66,316,2023-09-01 18:54:16,Mac,browse,2493.68,laptop,0
+67,14,2023-01-25 00:51:21,iPad,view,1701.81,tablet,0
+68,242,2023-03-31 09:29:56,iPhone,browse,2607.69,smartphone,0
+69,265,2023-03-16 10:12:15,iPhone,browse,795.71,smartphone,0
+70,346,2023-10-21 22:15:02,Apple Watch,view,1901.39,wearable,0
+71,53,2023-07-29 22:06:18,Apple Watch,add_to_cart,433.7,wearable,0
+72,386,2023-12-13 07:04:58,AirPods,browse,2000.21,accessory,0
+73,340,2023-01-17 21:21:05,Mac,browse,2334.86,laptop,0
+74,92,2023-05-08 08:47:36,iPhone,browse,1837.39,smartphone,0
+75,367,2023-12-30 18:48:15,iPhone,browse,944.71,smartphone,0
+76,444,2023-09-08 10:31:40,iPhone,browse,286.79,smartphone,0
+77,455,2023-06-28 23:34:59,iPhone,view,533.58,smartphone,0
+78,428,2023-07-01 13:15:01,iPhone,browse,1942.07,smartphone,0
+79,264,2023-06-01 05:17:13,iPhone,browse,2816.31,smartphone,0
+80,431,2023-01-25 03:00:05,iPad,click,777.5,tablet,0
+81,35,2023-06-29 09:57:31,Apple Watch,browse,2257.81,wearable,0
+82,206,2023-07-17 07:27:12,iPad,browse,2625.93,tablet,0
+83,81,2023-12-10 17:37:17,Apple Watch,browse,1657.99,wearable,0
+84,420,2023-06-10 03:52:24,Mac,view,2073.61,laptop,0
+85,50,2023-06-26 05:31:13,iPhone,browse,2481.86,smartphone,0
+86,360,2023-10-12 11:12:52,iPhone,view,929.15,smartphone,0
+87,388,2023-03-04 04:16:19,iPhone,browse,1030.6,smartphone,0
+88,2,2023-05-30 10:12:31,iPhone,view,200.76,smartphone,0
+89,390,2023-06-03 01:25:10,Mac,browse,2896.63,laptop,0
+90,54,2023-06-05 15:05:41,iPhone,view,2769.04,smartphone,0
+91,106,2023-02-18 03:21:27,iPhone,click,2340.56,smartphone,0
+92,260,2023-12-03 06:36:02,iPhone,view,420.49,smartphone,0
+93,310,2023-03-25 22:56:57,AirPods,browse,1452.46,accessory,0
+94,477,2023-12-27 02:39:56,Mac,browse,484.4,laptop,0
+95,191,2023-06-26 05:05:13,Mac,browse,243.59,laptop,0
+96,402,2023-05-28 18:29:09,iPhone,browse,1924.93,smartphone,0
+97,218,2023-04-28 06:35:05,Mac,browse,2890.28,laptop,0
+98,44,2023-12-08 18:42:44,Mac,click,2727.93,laptop,0
+99,162,2023-03-04 20:24:05,Mac,browse,2150.61,laptop,0
+100,202,2023-07-08 21:50:45,AirPods,view,469.69,accessory,0
+101,446,2023-12-26 00:33:43,iPhone,view,966.93,smartphone,0
+102,484,2023-02-18 16:36:36,Apple Watch,view,1095.48,wearable,0
+103,270,2023-11-23 22:14:33,Apple Watch,browse,2336.58,wearable,0
+104,351,2023-09-14 17:53:49,iPhone,click,2446.1,smartphone,0
+105,304,2023-08-12 17:07:07,iPad,browse,1277.68,tablet,0
+106,271,2023-05-21 09:24:08,AirPods,click,1369.49,accessory,1
+107,456,2023-08-03 10:30:04,iPhone,click,323.67,smartphone,0
+108,462,2023-07-30 04:16:19,iPad,click,1008.87,tablet,0
+109,215,2023-11-14 16:34:24,AirPods,view,1463.05,accessory,0
+110,252,2023-02-01 07:42:46,iPad,browse,526.67,tablet,0
+111,190,2023-06-07 18:54:59,iPhone,browse,1468.6,smartphone,0
+112,296,2023-10-12 10:01:00,iPad,view,2588.75,tablet,0
+113,213,2023-11-01 19:12:02,iPhone,browse,1827.28,smartphone,0
+114,208,2023-10-13 04:28:07,iPad,add_to_cart,420.08,tablet,0
+115,237,2023-05-24 13:34:28,iPhone,browse,735.87,smartphone,0
+116,338,2023-01-19 06:27:05,Mac,browse,1528.2,laptop,0
+117,367,2023-01-18 01:50:43,iPad,browse,1211.53,tablet,0
+118,53,2023-09-14 10:12:07,Mac,browse,1203.79,laptop,0
+119,280,2023-03-19 03:03:25,Mac,view,1681.48,laptop,0
+120,410,2023-06-24 18:14:57,iPad,click,1835.89,tablet,0
+121,217,2023-07-13 04:27:09,Mac,view,2431.01,laptop,0
+122,252,2023-04-23 03:57:06,iPhone,click,1154.05,smartphone,0
+123,188,2023-04-24 17:40:46,iPad,add_to_cart,2455.11,tablet,0
+124,380,2023-08-10 16:50:03,iPhone,click,1147.45,smartphone,0
+125,493,2023-06-15 07:58:51,Apple Watch,browse,354.27,wearable,0
+126,41,2023-11-15 19:08:46,iPhone,click,1751.28,smartphone,0
+127,157,2023-05-12 01:39:57,iPad,browse,1845.71,tablet,0
+128,15,2023-09-21 15:25:06,Mac,browse,2816.65,laptop,0
+129,301,2023-02-24 21:43:49,iPad,view,2232.7,tablet,0
+130,65,2023-12-25 13:50:15,iPhone,browse,2769.68,smartphone,0
+131,345,2023-05-11 11:41:32,iPad,browse,2743.28,tablet,0
+132,327,2023-10-15 17:22:19,Mac,browse,1892.41,laptop,0
+133,9,2023-09-23 18:21:17,Mac,browse,1677.26,laptop,0
+134,344,2023-06-11 06:03:37,iPhone,add_to_cart,1760.39,smartphone,1
+135,129,2023-03-28 10:31:01,iPad,browse,2939.3,tablet,0
+136,492,2023-02-24 03:43:48,iPad,browse,2364.64,tablet,0
+137,136,2023-10-15 12:12:14,Mac,view,496.65,laptop,0
+138,472,2023-06-27 02:50:58,iPad,browse,2379.38,tablet,0
+139,63,2023-12-15 16:02:55,iPad,add_to_cart,676.68,tablet,1
+140,139,2023-01-08 22:39:40,iPhone,browse,1452.03,smartphone,0
+141,499,2023-11-17 01:31:09,iPhone,view,788.5,smartphone,0
+142,81,2023-11-09 08:00:54,iPhone,view,2130.52,smartphone,0
+143,392,2023-09-04 01:44:16,iPhone,add_to_cart,2656.34,smartphone,1
+144,163,2023-11-19 21:10:56,iPad,view,1012.3,tablet,0
+145,419,2023-09-12 09:25:37,Mac,click,428.71,laptop,0
+146,289,2023-11-24 00:27:31,iPhone,browse,1035.08,smartphone,0
+147,379,2023-02-23 13:58:08,Apple Watch,browse,2082.29,wearable,0
+148,261,2023-09-06 23:32:10,iPhone,browse,1119.86,smartphone,0
+149,490,2023-08-27 06:57:31,Mac,add_to_cart,977.99,laptop,0
+150,231,2023-08-17 07:36:26,Mac,browse,715.6,laptop,0
+151,41,2023-03-08 20:50:54,iPhone,browse,1592.54,smartphone,0
+152,28,2023-02-20 04:29:44,iPhone,browse,971.93,smartphone,0
+153,135,2023-04-07 09:23:07,Mac,browse,2246.56,laptop,0
+154,201,2023-04-02 06:00:21,iPhone,browse,413.62,smartphone,0
+155,328,2023-09-21 20:59:24,Apple Watch,purchase,2058.96,wearable,1
+156,268,2023-10-18 21:39:44,iPad,view,864.41,tablet,0
+157,418,2023-04-06 16:36:32,Apple Watch,view,1569.47,wearable,0
+158,33,2023-03-29 12:34:13,iPhone,click,1000.34,smartphone,0
+159,48,2023-03-19 09:27:31,Mac,browse,2223.48,laptop,0
+160,407,2023-10-15 13:50:11,Mac,browse,2846.81,laptop,0
+161,62,2023-04-30 08:27:27,Mac,browse,2767.73,laptop,0
+162,216,2023-10-29 23:18:50,iPhone,browse,1833.18,smartphone,0
+163,293,2023-06-14 08:24:14,Mac,view,1494.77,laptop,0
+164,99,2023-07-01 23:20:45,iPad,browse,2491.06,tablet,0
+165,172,2023-08-11 15:56:58,Mac,browse,2113.0,laptop,0
+166,360,2023-11-07 04:01:12,iPhone,view,713.16,smartphone,0
+167,214,2023-01-07 00:57:51,Apple Watch,add_to_cart,2498.39,wearable,1
+168,475,2023-11-26 02:18:49,iPhone,click,1400.31,smartphone,0
+169,35,2023-09-20 09:41:05,Mac,click,728.35,laptop,0
+170,449,2023-06-10 13:00:50,Apple Watch,click,988.31,wearable,0
+171,227,2023-05-31 15:03:40,Mac,browse,948.34,laptop,0
+172,101,2023-03-26 01:46:37,iPad,click,1653.3,tablet,0
+173,431,2023-05-27 09:52:05,iPad,browse,855.47,tablet,0
+174,462,2023-04-22 14:44:32,AirPods,view,545.11,accessory,0
+175,131,2023-02-05 23:17:00,iPhone,view,545.46,smartphone,0
+176,257,2023-10-12 23:28:50,iPad,browse,1832.76,tablet,0
+177,5,2023-07-07 06:28:04,Mac,click,2257.06,laptop,0
+178,218,2023-03-23 17:02:10,Mac,add_to_cart,1099.61,laptop,0
+179,255,2023-01-02 23:09:29,iPhone,browse,296.06,smartphone,0
+180,398,2023-10-30 06:58:42,Mac,click,555.36,laptop,0
+181,359,2023-07-16 19:35:53,Mac,browse,2761.06,laptop,0
+182,283,2023-01-11 22:45:06,iPhone,view,1581.42,smartphone,0
+183,393,2023-08-22 17:26:52,Apple Watch,view,1469.46,wearable,0
+184,207,2023-07-14 02:13:19,iPhone,view,305.58,smartphone,0
+185,15,2023-04-29 06:13:56,iPhone,add_to_cart,2239.91,smartphone,1
+186,346,2023-01-20 11:56:03,iPhone,add_to_cart,1678.12,smartphone,0
+187,42,2023-09-18 00:34:56,iPhone,click,765.03,smartphone,1
+188,380,2023-10-20 07:01:19,Apple Watch,browse,507.32,wearable,0
+189,461,2023-09-13 07:16:41,iPhone,add_to_cart,1272.87,smartphone,0
+190,179,2023-08-10 05:28:35,iPad,browse,2543.89,tablet,0
+191,63,2023-08-14 08:08:29,iPhone,add_to_cart,2622.69,smartphone,0
+192,352,2023-02-22 04:11:18,iPad,browse,1887.57,tablet,0
+193,231,2023-12-21 15:43:34,iPad,browse,2236.83,tablet,0
+194,241,2023-12-08 01:25:05,iPhone,view,521.55,smartphone,0
+195,52,2023-12-30 00:47:19,iPhone,browse,1846.34,smartphone,0
+196,96,2023-10-07 19:08:40,Apple Watch,browse,2067.17,wearable,0
+197,388,2023-03-22 12:06:59,iPhone,browse,761.2,smartphone,0
+198,222,2023-07-21 11:53:41,iPad,browse,2664.31,tablet,0
+199,485,2023-06-07 03:44:53,iPhone,browse,745.19,smartphone,0
+200,407,2023-04-30 04:44:29,Mac,browse,1077.05,laptop,0
+201,231,2023-02-28 02:05:31,iPhone,view,1937.18,smartphone,1
+202,237,2023-08-03 10:17:31,iPad,browse,1987.02,tablet,0
+203,143,2023-05-08 02:08:56,iPhone,view,2157.98,smartphone,0
+204,171,2023-08-12 02:08:30,AirPods,browse,512.74,accessory,0
+205,29,2023-07-28 18:39:15,iPhone,add_to_cart,2578.35,smartphone,0
+206,36,2023-04-25 03:52:55,Mac,add_to_cart,1691.5,laptop,0
+207,13,2023-07-28 17:20:24,iPad,browse,1519.17,tablet,0
+208,160,2023-01-14 12:40:03,iPhone,click,2947.05,smartphone,1
+209,327,2023-01-09 06:27:32,Mac,click,2272.8,laptop,0
+210,187,2023-02-09 22:26:37,iPhone,purchase,529.53,smartphone,1
+211,243,2023-08-25 00:23:51,Apple Watch,view,2318.07,wearable,0
+212,86,2023-10-08 20:43:23,Apple Watch,browse,465.79,wearable,0
+213,284,2023-12-25 10:24:41,Apple Watch,view,275.95,wearable,1
+214,66,2023-07-20 02:39:17,iPhone,view,1329.56,smartphone,0
+215,170,2023-09-03 20:49:31,Mac,view,2982.01,laptop,0
+216,45,2023-10-05 00:02:42,iPad,browse,688.85,tablet,0
+217,62,2023-08-23 09:39:02,Apple Watch,add_to_cart,2083.08,wearable,0
+218,441,2023-01-04 05:27:55,Mac,purchase,684.68,laptop,1
+219,134,2023-06-03 20:33:17,Mac,browse,2229.13,laptop,0
+220,284,2023-01-29 04:43:35,iPad,browse,1614.5,tablet,0
+221,28,2023-04-19 13:54:17,iPad,browse,2103.6,tablet,0
+222,108,2023-04-08 09:03:11,iPhone,click,767.25,smartphone,0
+223,44,2023-08-03 02:43:53,Mac,view,2287.5,laptop,1
+224,340,2023-10-20 02:11:36,iPad,view,2987.73,tablet,0
+225,286,2023-03-16 09:09:32,iPad,view,2063.49,tablet,0
+226,446,2023-11-22 13:48:53,Mac,view,1581.24,laptop,0
+227,331,2023-05-26 11:36:40,iPad,browse,2784.81,tablet,0
+228,128,2023-05-08 01:29:07,iPhone,view,243.4,smartphone,0
+229,348,2023-12-07 16:24:23,iPad,click,2243.52,tablet,1
+230,473,2023-02-11 00:44:03,iPad,purchase,2688.38,tablet,1
+231,231,2023-12-22 11:19:45,iPad,add_to_cart,371.75,tablet,0
+232,190,2023-02-10 05:11:21,iPhone,add_to_cart,1459.63,smartphone,1
+233,225,2023-02-03 13:53:46,iPhone,view,772.42,smartphone,0
+234,385,2023-01-17 04:24:52,iPhone,view,1785.82,smartphone,0
+235,377,2023-06-14 13:08:19,Mac,click,2018.37,laptop,0
+236,283,2023-06-02 04:44:33,iPhone,add_to_cart,1046.65,smartphone,1
+237,446,2023-03-17 08:31:22,iPad,browse,1487.41,tablet,0
+238,121,2023-03-28 03:58:09,Apple Watch,browse,981.43,wearable,0
+239,116,2023-04-27 02:12:07,iPhone,browse,1233.66,smartphone,0
+240,461,2023-12-28 13:25:30,iPad,view,645.87,tablet,0
+241,233,2023-12-08 18:31:47,Mac,browse,2679.45,laptop,0
+242,259,2023-01-27 21:30:54,Apple Watch,browse,227.04,wearable,0
+243,359,2023-11-09 18:10:28,Mac,browse,2670.63,laptop,0
+244,198,2023-10-14 14:03:21,Mac,browse,1800.27,laptop,0
+245,456,2023-05-14 21:31:05,Mac,add_to_cart,1127.97,laptop,1
+246,411,2023-08-07 00:42:19,iPad,browse,2224.28,tablet,0
+247,137,2023-06-17 06:17:49,Mac,view,1621.21,laptop,0
+248,318,2023-04-08 19:42:48,iPhone,view,1597.0,smartphone,0
+249,165,2023-09-25 05:44:04,Apple Watch,add_to_cart,507.51,wearable,0
+250,225,2023-08-25 05:12:25,iPad,browse,1290.03,tablet,0
+251,307,2023-11-05 07:50:28,iPad,purchase,874.22,tablet,1
+252,234,2023-06-22 09:35:21,iPhone,view,242.96,smartphone,0
+253,172,2023-07-09 07:28:48,Mac,purchase,1207.64,laptop,1
+254,152,2023-05-02 05:05:22,iPhone,add_to_cart,450.59,smartphone,1
+255,463,2023-02-15 16:01:54,Apple Watch,browse,918.38,wearable,0
+256,315,2023-03-05 17:18:12,Mac,browse,458.14,laptop,0
+257,374,2023-05-10 08:04:15,iPhone,browse,481.74,smartphone,0
+258,160,2023-11-06 11:54:51,Mac,view,756.43,laptop,0
+259,96,2023-12-29 22:45:12,Mac,browse,2999.58,laptop,0
+260,472,2023-07-12 01:49:48,Mac,browse,205.12,laptop,0
+261,233,2023-11-03 01:45:04,iPhone,view,1987.92,smartphone,0
+262,180,2023-06-30 02:02:25,iPhone,browse,594.62,smartphone,0
+263,113,2023-10-19 08:08:20,iPhone,browse,2777.68,smartphone,0
+264,318,2023-10-09 06:44:19,iPhone,view,461.27,smartphone,0
+265,497,2023-01-29 04:15:52,Apple Watch,browse,2874.13,wearable,0
+266,442,2023-05-29 09:16:05,iPhone,browse,1910.2,smartphone,0
+267,52,2023-09-24 05:24:06,Mac,view,202.55,laptop,0
+268,268,2023-10-23 00:38:56,iPhone,view,2703.11,smartphone,0
+269,295,2023-01-11 17:13:52,iPad,add_to_cart,1660.31,tablet,0
+270,386,2023-06-13 20:56:55,Mac,view,934.74,laptop,0
+271,387,2023-04-23 02:05:21,Apple Watch,view,2348.15,wearable,0
+272,113,2023-07-06 19:55:07,iPhone,view,2794.59,smartphone,0
+273,101,2023-10-22 06:31:21,iPad,click,1553.82,tablet,0
+274,113,2023-08-20 05:07:54,iPad,add_to_cart,1082.87,tablet,1
+275,440,2023-08-15 12:59:20,iPhone,add_to_cart,2408.84,smartphone,0
+276,81,2023-11-06 15:28:38,iPhone,view,2108.68,smartphone,0
+277,187,2023-04-08 12:23:49,iPad,browse,2688.4,tablet,0
+278,113,2023-02-24 12:33:52,iPad,browse,2138.73,tablet,0
+279,2,2023-04-21 18:39:29,Mac,browse,881.12,laptop,0
+280,130,2023-06-01 14:04:29,iPhone,add_to_cart,2808.58,smartphone,0
+281,220,2023-09-03 21:40:21,iPad,view,492.64,tablet,0
+282,54,2023-03-10 19:13:04,iPad,click,949.51,tablet,1
+283,343,2023-11-08 13:19:05,Mac,browse,1656.07,laptop,0
+284,485,2023-10-16 03:39:00,Apple Watch,click,1783.64,wearable,1
+285,224,2023-09-07 23:10:57,iPad,browse,241.88,tablet,0
+286,225,2023-02-05 03:59:17,Mac,browse,2385.38,laptop,0
+287,385,2023-08-27 19:04:33,iPhone,browse,1211.86,smartphone,0
+288,403,2023-05-28 18:13:53,iPad,view,1337.38,tablet,0
+289,126,2023-08-15 21:22:23,iPhone,view,2466.04,smartphone,0
+290,130,2023-09-01 21:44:18,iPad,add_to_cart,1261.37,tablet,1
+291,53,2023-12-03 03:35:24,Mac,browse,331.28,laptop,0
+292,172,2023-12-31 19:14:46,Apple Watch,view,693.21,wearable,0
+293,218,2023-07-20 20:34:31,iPhone,view,2876.48,smartphone,0
+294,160,2023-06-03 15:55:26,Mac,browse,396.21,laptop,0
+295,198,2023-03-14 08:30:51,iPad,click,1193.16,tablet,1
+296,416,2023-07-20 19:30:02,iPhone,click,1608.4,smartphone,0
+297,247,2023-10-23 13:32:57,iPhone,click,1580.68,smartphone,1
+298,324,2023-01-17 04:43:14,iPhone,add_to_cart,210.09,smartphone,1
+299,439,2023-05-09 18:41:03,iPhone,click,1602.76,smartphone,0
+300,203,2023-08-05 16:33:54,iPhone,browse,1273.95,smartphone,0
+301,184,2023-03-02 03:00:00,iPhone,click,2921.79,smartphone,1
+302,123,2023-04-14 10:30:23,iPhone,browse,644.8,smartphone,0
+303,401,2023-02-11 17:44:38,Mac,browse,1190.99,laptop,0
+304,255,2023-01-25 05:11:48,iPad,browse,1373.97,tablet,0
+305,294,2023-02-08 03:33:39,AirPods,click,1293.33,accessory,0
+306,280,2023-10-18 20:48:25,iPad,click,2063.99,tablet,1
+307,325,2023-05-11 17:44:30,Mac,browse,802.65,laptop,0
+308,372,2023-08-17 02:34:43,Apple Watch,click,818.22,wearable,0
+309,98,2023-04-18 08:29:33,Mac,add_to_cart,2241.52,laptop,1
+310,198,2023-06-21 21:51:47,iPad,browse,1600.31,tablet,0
+311,470,2023-04-12 08:35:33,Mac,browse,1361.85,laptop,0
+312,395,2023-12-20 01:36:14,iPhone,click,672.94,smartphone,0
+313,240,2023-01-12 20:00:55,iPhone,browse,724.26,smartphone,0
+314,144,2023-10-02 03:03:03,iPad,view,228.56,tablet,0
+315,97,2023-04-11 05:02:13,iPad,browse,455.08,tablet,0
+316,201,2023-02-13 04:08:59,iPhone,view,1758.71,smartphone,0
+317,124,2023-11-01 00:13:01,Apple Watch,click,2697.14,wearable,1
+318,187,2023-01-17 15:45:00,Mac,view,1003.35,laptop,0
+319,326,2023-11-26 07:40:24,iPad,click,1117.02,tablet,0
+320,464,2023-02-26 01:53:43,Apple Watch,add_to_cart,522.81,wearable,1
+321,349,2023-11-07 05:08:09,iPad,click,1287.56,tablet,0
+322,259,2023-10-30 11:06:01,AirPods,view,303.26,accessory,1
+323,148,2023-01-12 08:05:18,iPad,browse,2769.2,tablet,0
+324,252,2023-11-14 22:43:36,iPhone,view,2084.38,smartphone,0
+325,443,2023-03-21 06:11:03,Mac,browse,2974.09,laptop,0
+326,420,2023-08-04 03:46:05,Mac,click,2671.79,laptop,0
+327,403,2023-12-05 05:39:14,Mac,browse,1523.85,laptop,0
+328,346,2023-09-21 11:55:51,AirPods,view,1654.64,accessory,0
+329,451,2023-05-29 06:34:08,Mac,browse,732.8,laptop,0
+330,147,2023-03-22 14:05:29,Mac,click,1493.17,laptop,0
+331,148,2023-08-03 11:39:31,Apple Watch,add_to_cart,2728.38,wearable,0
+332,352,2023-07-17 05:10:58,Mac,browse,341.44,laptop,0
+333,199,2023-07-19 05:54:13,iPad,add_to_cart,2617.82,tablet,0
+334,308,2023-01-25 17:49:26,Apple Watch,browse,1153.99,wearable,0
+335,489,2023-03-30 13:29:23,iPhone,view,2718.54,smartphone,1
+336,417,2023-09-25 07:19:50,Mac,add_to_cart,2834.4,laptop,1
+337,424,2023-05-23 14:19:38,Apple Watch,browse,2078.09,wearable,0
+338,128,2023-02-28 21:57:05,Mac,purchase,2060.05,laptop,1
+339,39,2023-12-31 09:04:18,Mac,browse,1467.16,laptop,0
+340,338,2023-01-26 01:54:12,Mac,browse,2539.35,laptop,0
+341,360,2023-02-16 00:42:31,iPad,add_to_cart,2892.48,tablet,0
+342,129,2023-10-15 19:59:07,Apple Watch,browse,2370.0,wearable,0
+343,267,2023-09-23 16:56:41,iPhone,purchase,1941.04,smartphone,1
+344,476,2023-01-16 13:39:19,iPhone,purchase,1898.63,smartphone,1
+345,441,2023-07-18 14:21:47,iPhone,browse,2578.37,smartphone,0
+346,473,2023-10-09 09:14:03,iPad,view,1714.91,tablet,0
+347,434,2023-03-27 06:03:20,iPad,browse,2450.61,tablet,0
+348,151,2023-09-07 21:05:39,Mac,view,1624.39,laptop,0
+349,415,2023-09-27 16:03:48,iPad,browse,373.91,tablet,0
+350,478,2023-12-01 02:00:39,iPad,browse,1274.44,tablet,0
+351,298,2023-04-27 01:51:50,iPhone,browse,1443.88,smartphone,0
+352,99,2023-01-07 05:56:24,iPad,view,595.67,tablet,0
+353,263,2023-05-17 05:50:38,Mac,purchase,486.09,laptop,1
+354,252,2023-06-25 11:20:46,iPhone,click,1698.84,smartphone,0
+355,144,2023-11-24 18:50:21,iPhone,click,437.49,smartphone,0
+356,346,2023-11-11 10:33:11,iPhone,view,1047.55,smartphone,0
+357,112,2023-08-03 21:57:37,iPhone,click,2284.62,smartphone,0
+358,60,2023-03-23 01:56:11,iPad,browse,2900.37,tablet,0
+359,369,2023-08-11 08:05:39,iPhone,click,2209.76,smartphone,0
+360,2,2023-04-13 23:44:05,Mac,purchase,2979.34,laptop,1
+361,385,2023-09-30 21:24:27,Mac,browse,2155.04,laptop,0
+362,304,2023-01-14 22:17:37,iPad,view,1021.92,tablet,0
+363,254,2023-06-08 23:32:22,AirPods,click,2081.42,accessory,0
+364,140,2023-06-01 10:28:31,iPad,add_to_cart,2165.74,tablet,1
+365,453,2023-04-18 01:48:50,iPad,click,1240.21,tablet,0
+366,37,2023-07-07 03:05:16,AirPods,browse,248.62,accessory,0
+367,160,2023-10-28 18:16:34,iPhone,browse,2168.66,smartphone,0
+368,9,2023-04-08 00:04:42,Apple Watch,browse,259.78,wearable,0
+369,233,2023-05-11 22:04:33,iPhone,click,1966.96,smartphone,0
+370,99,2023-10-20 00:31:38,iPad,browse,657.29,tablet,0
+371,147,2023-06-20 01:08:55,iPhone,add_to_cart,1783.26,smartphone,1
+372,304,2023-07-02 01:50:29,Mac,browse,1610.46,laptop,0
+373,208,2023-12-30 23:38:40,Mac,browse,236.85,laptop,0
+374,131,2023-02-08 18:03:51,Mac,view,1215.39,laptop,0
+375,404,2023-01-15 09:16:20,iPhone,click,1882.66,smartphone,0
+376,152,2023-01-04 04:44:31,iPhone,browse,2575.95,smartphone,0
+377,54,2023-12-15 05:34:34,iPhone,view,2688.09,smartphone,0
+378,120,2023-07-29 18:50:43,iPhone,view,1554.26,smartphone,0
+379,161,2023-06-10 11:05:01,Apple Watch,browse,2239.31,wearable,0
+380,408,2023-01-16 03:06:45,iPhone,browse,1085.39,smartphone,0
+381,116,2023-04-18 15:27:41,Mac,click,1157.46,laptop,0
+382,75,2023-11-07 01:38:26,Mac,view,743.69,laptop,0
+383,113,2023-08-15 00:43:11,iPhone,browse,1773.02,smartphone,0
+384,456,2023-06-19 17:29:47,Mac,click,1080.09,laptop,0
+385,420,2023-02-03 17:36:10,iPhone,purchase,435.32,smartphone,1
+386,422,2023-09-08 22:24:45,iPhone,view,2117.7,smartphone,0
+387,104,2023-09-04 15:06:40,iPhone,view,2181.42,smartphone,0
+388,340,2023-09-26 06:59:10,iPad,add_to_cart,1207.34,tablet,1
+389,254,2023-05-21 08:50:52,iPad,purchase,413.9,tablet,1
+390,227,2023-10-01 11:54:30,iPad,click,1393.06,tablet,0
+391,112,2023-04-06 14:39:16,iPad,view,1437.98,tablet,0
+392,473,2023-08-15 15:41:21,iPhone,view,2071.95,smartphone,0
+393,99,2023-02-08 00:21:23,Mac,click,1082.48,laptop,0
+394,153,2023-10-29 09:21:31,Mac,browse,2110.96,laptop,0
+395,349,2023-01-29 00:18:45,iPhone,view,2640.04,smartphone,0
+396,402,2023-11-14 18:37:45,iPhone,click,864.2,smartphone,0
+397,384,2023-09-02 07:16:10,Mac,view,2940.95,laptop,0
+398,366,2023-08-24 02:20:38,iPhone,view,1281.22,smartphone,0
+399,338,2023-07-04 05:34:55,Mac,view,947.59,laptop,0
+400,194,2023-09-29 04:29:14,iPhone,browse,1379.65,smartphone,0
+401,310,2023-08-24 02:13:24,iPhone,view,463.41,smartphone,0
+402,163,2023-08-27 02:42:32,iPhone,click,551.1,smartphone,0
+403,208,2023-09-23 15:23:46,iPhone,browse,1359.83,smartphone,0
+404,445,2023-12-25 07:26:59,Mac,browse,2334.61,laptop,0
+405,169,2023-12-06 06:43:37,iPad,purchase,2720.77,tablet,1
+406,484,2023-03-06 09:09:54,Mac,browse,2061.16,laptop,0
+407,161,2023-06-26 04:10:36,Apple Watch,browse,493.72,wearable,0
+408,68,2023-01-03 21:27:55,iPad,purchase,2081.33,tablet,1
+409,289,2023-05-22 13:43:36,Mac,click,1978.83,laptop,0
+410,398,2023-06-07 02:39:47,iPhone,view,2455.94,smartphone,0
+411,277,2023-11-20 00:10:45,iPad,add_to_cart,2510.52,tablet,1
+412,304,2023-05-26 08:35:30,Mac,browse,2630.84,laptop,0
+413,404,2023-10-20 22:43:55,iPhone,click,1358.98,smartphone,0
+414,384,2023-06-02 08:21:30,iPad,view,2153.72,tablet,0
+415,392,2023-07-12 14:29:02,iPhone,click,950.37,smartphone,1
+416,135,2023-03-14 07:21:15,iPad,view,2998.14,tablet,0
+417,195,2023-11-01 05:14:48,Apple Watch,view,690.11,wearable,1
+418,401,2023-12-10 12:08:52,Apple Watch,view,227.33,wearable,0
+419,128,2023-05-20 22:40:23,Mac,view,615.81,laptop,0
+420,33,2023-07-06 12:51:45,Mac,click,2372.22,laptop,0
+421,176,2023-10-20 12:47:17,iPad,view,1450.44,tablet,0
+422,460,2023-03-02 02:35:46,iPad,view,1452.45,tablet,0
+423,443,2023-07-17 00:09:47,iPhone,view,2874.02,smartphone,0
+424,371,2023-10-22 03:32:43,iPad,view,2774.9,tablet,0
+425,470,2023-11-15 16:26:05,iPad,click,1070.66,tablet,0
+426,375,2023-10-29 19:20:15,AirPods,click,784.57,accessory,0
+427,22,2023-12-10 10:01:56,iPad,view,2575.6,tablet,0
+428,238,2023-01-11 23:49:11,iPad,add_to_cart,2736.76,tablet,0
+429,158,2023-03-03 07:05:56,iPad,click,1716.01,tablet,0
+430,38,2023-11-29 16:24:02,Mac,view,1962.02,laptop,0
+431,230,2023-08-14 05:01:39,Mac,view,918.62,laptop,0
+432,365,2023-06-02 12:31:36,iPhone,add_to_cart,2442.05,smartphone,1
+433,51,2023-07-18 19:59:46,iPad,view,1969.57,tablet,0
+434,438,2023-02-21 03:40:30,Mac,click,1609.34,laptop,1
+435,264,2023-09-17 08:03:29,iPad,view,367.36,tablet,0
+436,283,2023-02-28 19:42:49,iPhone,view,2764.53,smartphone,0
+437,27,2023-03-13 09:24:26,Mac,browse,1922.88,laptop,0
+438,226,2023-05-28 23:24:06,Mac,view,738.73,laptop,0
+439,277,2023-12-15 21:22:55,iPhone,purchase,1897.49,smartphone,1
+440,286,2023-03-04 11:37:35,Mac,view,2096.57,laptop,0
+441,97,2023-11-06 22:39:17,Mac,view,1671.68,laptop,0
+442,284,2023-08-31 01:46:56,iPad,add_to_cart,2210.4,tablet,1
+443,367,2023-11-26 20:08:36,AirPods,view,1827.65,accessory,0
+444,448,2023-04-17 15:31:55,Mac,view,2853.7,laptop,0
+445,481,2023-08-14 05:00:58,Mac,click,349.41,laptop,0
+446,453,2023-11-09 21:17:17,Mac,click,496.59,laptop,0
+447,317,2023-08-06 11:18:38,iPhone,browse,685.45,smartphone,0
+448,304,2023-08-29 09:03:22,iPhone,view,2132.17,smartphone,0
+449,147,2023-09-16 20:44:18,iPad,view,2007.31,tablet,0
+450,4,2023-09-19 21:41:52,iPhone,browse,2697.66,smartphone,0
+451,35,2023-01-05 16:07:47,iPad,view,2251.79,tablet,0
+452,192,2023-09-18 07:38:36,Apple Watch,view,1622.9,wearable,0
+453,49,2023-02-23 00:18:09,Mac,browse,2977.12,laptop,0
+454,17,2023-02-16 10:22:26,Mac,view,944.37,laptop,0
+455,172,2023-08-03 20:44:23,Apple Watch,browse,2532.77,wearable,0
+456,220,2023-06-26 02:54:47,Mac,view,1394.44,laptop,0
+457,158,2023-01-09 00:02:35,iPad,add_to_cart,2016.11,tablet,0
+458,477,2023-04-09 18:44:54,iPhone,click,2236.08,smartphone,0
+459,46,2023-01-20 21:10:29,iPad,browse,1974.15,tablet,0
+460,373,2023-08-29 10:42:27,Mac,browse,592.56,laptop,0
+461,6,2023-03-02 07:59:55,iPad,browse,1439.71,tablet,0
+462,99,2023-06-27 15:21:36,Mac,view,1771.59,laptop,0
+463,380,2023-12-04 05:57:27,iPhone,browse,2577.17,smartphone,0
+464,233,2023-03-03 10:09:58,Mac,view,1441.65,laptop,0
+465,37,2023-05-25 11:36:54,Mac,browse,2772.41,laptop,0
+466,280,2023-08-04 20:55:30,Mac,click,1432.49,laptop,0
+467,349,2023-01-03 17:34:38,AirPods,browse,1736.13,accessory,0
+468,497,2023-06-09 15:17:57,Mac,browse,2429.4,laptop,0
+469,302,2023-08-15 19:58:26,Apple Watch,click,1832.17,wearable,0
+470,181,2023-09-26 02:38:48,Apple Watch,browse,2888.57,wearable,0
+471,95,2023-04-30 13:55:00,Mac,browse,2048.6,laptop,0
+472,99,2023-03-30 02:16:19,Mac,view,1663.11,laptop,0
+473,188,2023-11-25 13:33:01,iPhone,view,265.08,smartphone,0
+474,481,2023-03-09 15:21:07,iPad,click,1357.87,tablet,0
+475,116,2023-12-23 22:52:59,iPad,browse,1037.19,tablet,0
+476,191,2023-04-08 06:39:12,iPhone,view,2294.44,smartphone,0
+477,253,2023-09-24 14:56:38,iPhone,browse,782.39,smartphone,0
+478,469,2023-04-15 14:08:59,AirPods,browse,773.82,accessory,0
+479,416,2023-11-19 08:11:56,Apple Watch,add_to_cart,729.84,wearable,0
+480,471,2023-05-03 15:42:06,Mac,click,550.85,laptop,0
+481,161,2023-01-29 02:54:09,iPad,browse,1070.13,tablet,0
+482,256,2023-05-17 13:58:10,iPhone,view,2680.47,smartphone,0
+483,323,2023-07-14 20:15:54,iPhone,browse,2369.57,smartphone,0
+484,128,2023-08-14 06:19:06,iPhone,add_to_cart,2258.44,smartphone,1
+485,18,2023-11-28 18:53:10,iPhone,browse,2432.34,smartphone,0
+486,281,2023-06-19 16:20:10,iPhone,browse,953.64,smartphone,0
+487,490,2023-01-09 23:08:17,Apple Watch,view,2684.72,wearable,0
+488,223,2023-02-09 04:13:43,Mac,view,583.59,laptop,0
+489,54,2023-01-25 20:03:57,iPhone,view,1141.1,smartphone,0
+490,58,2023-09-18 00:43:17,iPhone,browse,1842.48,smartphone,0
+491,323,2023-08-14 18:14:37,iPad,browse,487.24,tablet,0
+492,360,2023-05-04 00:44:19,iPhone,view,2244.09,smartphone,0
+493,174,2023-02-07 20:42:47,Apple Watch,browse,1283.68,wearable,0
+494,280,2023-11-24 04:10:37,iPad,add_to_cart,2396.12,tablet,1
+495,114,2023-09-08 12:58:58,iPad,browse,1579.6,tablet,0
+496,288,2023-06-25 19:54:38,iPhone,view,705.63,smartphone,0
+497,431,2023-03-31 03:21:49,iPhone,view,2257.07,smartphone,0
+498,342,2023-02-06 06:06:50,Mac,browse,905.26,laptop,0
+499,151,2023-11-12 02:26:27,Mac,view,1573.76,laptop,0
+500,450,2023-06-25 02:21:12,Mac,click,410.57,laptop,0
+501,127,2023-10-11 06:29:43,iPhone,browse,1929.64,smartphone,0
+502,155,2023-03-22 17:08:29,iPad,add_to_cart,2064.07,tablet,1
+503,490,2023-04-24 19:23:05,iPad,view,1259.67,tablet,0
+504,386,2023-02-09 09:35:18,Apple Watch,browse,2872.34,wearable,0
+505,474,2023-10-28 14:58:29,iPhone,view,2647.55,smartphone,0
+506,273,2023-08-12 05:05:51,iPhone,browse,2181.94,smartphone,0
+507,104,2023-11-14 19:20:24,Mac,click,2197.94,laptop,0
+508,417,2023-12-15 14:48:50,Mac,click,905.98,laptop,1
+509,393,2023-04-25 04:14:42,iPad,click,2038.74,tablet,0
+510,299,2023-07-05 23:34:26,iPad,purchase,754.18,tablet,1
+511,246,2023-11-19 06:02:58,iPad,click,602.35,tablet,0
+512,176,2023-02-25 06:44:24,Apple Watch,view,2998.51,wearable,0
+513,39,2023-02-09 16:34:35,iPad,browse,1942.27,tablet,0
+514,477,2023-12-20 01:24:35,Apple Watch,view,1406.2,wearable,0
+515,170,2023-02-09 21:05:48,iPad,browse,1006.15,tablet,0
+516,247,2023-12-13 13:27:34,Apple Watch,click,1890.58,wearable,1
+517,26,2023-08-25 07:52:45,Mac,view,337.91,laptop,0
+518,355,2023-10-16 20:12:46,iPhone,browse,464.2,smartphone,0
+519,306,2023-09-19 13:23:20,Apple Watch,browse,291.03,wearable,0
+520,409,2023-08-04 03:03:22,iPhone,browse,1597.17,smartphone,0
+521,408,2023-05-27 03:52:27,Apple Watch,view,1881.3,wearable,0
+522,13,2023-12-02 22:00:22,Mac,view,374.01,laptop,0
+523,316,2023-06-17 21:50:10,iPhone,view,2219.15,smartphone,0
+524,391,2023-04-02 14:29:02,Mac,view,844.34,laptop,0
+525,313,2023-12-19 15:38:27,AirPods,view,2118.25,accessory,0
+526,36,2023-02-28 01:14:53,iPhone,browse,2949.29,smartphone,0
+527,173,2023-02-28 13:54:45,iPad,browse,2134.79,tablet,0
+528,20,2023-10-31 09:30:28,Mac,view,2672.82,laptop,0
+529,321,2023-06-18 22:07:56,Mac,view,2854.9,laptop,0
+530,264,2023-09-26 14:24:35,iPad,browse,1562.39,tablet,0
+531,494,2023-12-29 08:47:35,iPhone,browse,2166.21,smartphone,0
+532,400,2023-02-14 12:04:32,iPhone,browse,2585.37,smartphone,0
+533,142,2023-12-11 13:43:57,iPad,view,1197.86,tablet,0
+534,460,2023-06-30 13:43:36,iPad,browse,931.17,tablet,0
+535,371,2023-06-19 16:35:11,Apple Watch,view,2850.42,wearable,0
+536,471,2023-12-22 01:53:36,iPhone,click,2233.38,smartphone,0
+537,143,2023-07-10 21:26:15,Mac,browse,814.33,laptop,0
+538,92,2023-06-04 17:51:47,iPhone,purchase,1456.88,smartphone,1
+539,354,2023-07-07 12:58:53,iPhone,view,2429.86,smartphone,0
+540,322,2023-01-07 03:07:20,iPad,view,1731.32,tablet,0
+541,288,2023-05-13 19:49:23,iPad,view,2019.52,tablet,0
+542,215,2023-08-23 09:06:02,Mac,view,2310.3,laptop,0
+543,447,2023-02-14 02:17:39,Apple Watch,view,1941.25,wearable,0
+544,342,2023-11-10 13:55:39,Mac,view,1711.76,laptop,0
+545,51,2023-09-06 04:07:29,AirPods,browse,2298.67,accessory,0
+546,153,2023-01-31 22:42:48,Apple Watch,browse,2236.9,wearable,0
+547,186,2023-01-23 15:14:29,iPad,browse,1963.27,tablet,0
+548,63,2023-06-09 17:31:35,Mac,browse,1206.77,laptop,0
+549,190,2023-12-29 19:41:50,Mac,browse,1335.68,laptop,0
+550,125,2023-06-07 06:32:47,iPhone,browse,2917.2,smartphone,0
+551,150,2023-02-08 09:48:12,Mac,click,513.79,laptop,0
+552,314,2023-03-23 20:46:53,iPhone,add_to_cart,951.08,smartphone,1
+553,58,2023-12-22 14:20:31,iPad,add_to_cart,1578.22,tablet,1
+554,342,2023-09-15 02:44:45,Mac,view,2542.68,laptop,0
+555,305,2023-07-25 16:34:19,iPhone,click,657.46,smartphone,0
+556,180,2023-03-18 15:05:06,iPhone,add_to_cart,974.75,smartphone,0
+557,170,2023-01-12 18:25:14,Apple Watch,view,383.3,wearable,0
+558,326,2023-10-22 18:04:47,Mac,browse,2176.46,laptop,0
+559,271,2023-08-12 08:06:05,iPhone,add_to_cart,866.22,smartphone,1
+560,54,2023-01-13 16:22:09,Mac,view,1287.68,laptop,1
+561,491,2023-02-15 18:37:08,iPad,view,1441.81,tablet,1
+562,444,2023-06-04 13:50:12,iPad,browse,2695.57,tablet,0
+563,101,2023-04-23 14:01:40,AirPods,browse,1351.14,accessory,0
+564,481,2023-08-21 21:59:11,Mac,click,605.78,laptop,0
+565,264,2023-01-17 16:17:23,iPhone,view,1667.61,smartphone,1
+566,53,2023-12-26 12:28:20,Mac,browse,2896.25,laptop,0
+567,60,2023-08-11 11:55:46,Apple Watch,browse,1901.13,wearable,0
+568,492,2023-12-20 02:10:51,iPhone,view,2953.47,smartphone,0
+569,108,2023-07-07 04:31:28,iPhone,view,2554.94,smartphone,0
+570,5,2023-12-10 20:11:32,iPhone,browse,299.74,smartphone,0
+571,103,2023-12-31 18:46:20,Mac,add_to_cart,2043.18,laptop,1
+572,196,2023-06-12 02:02:48,Mac,browse,1002.23,laptop,0
+573,262,2023-11-22 23:43:56,Mac,browse,1766.49,laptop,0
+574,365,2023-03-15 12:53:23,Apple Watch,view,981.45,wearable,0
+575,480,2023-08-21 02:32:48,Mac,browse,1176.19,laptop,0
+576,372,2023-08-12 13:51:19,iPhone,click,2784.8,smartphone,0
+577,350,2023-11-15 16:37:51,iPhone,click,777.81,smartphone,1
+578,47,2023-03-01 08:56:14,iPad,click,2647.38,tablet,0
+579,355,2023-12-01 01:49:41,iPhone,browse,284.31,smartphone,0
+580,311,2023-08-10 19:57:33,Mac,browse,453.55,laptop,0
+581,424,2023-02-06 17:47:26,Apple Watch,browse,2592.94,wearable,0
+582,308,2023-10-05 13:47:58,iPhone,view,1965.19,smartphone,0
+583,144,2023-07-15 07:24:09,iPad,click,2292.01,tablet,0
+584,269,2023-12-18 22:52:05,Mac,click,785.58,laptop,0
+585,370,2023-08-30 04:02:47,iPad,click,1703.37,tablet,0
+586,124,2023-11-20 22:20:04,iPhone,add_to_cart,2263.95,smartphone,0
+587,106,2023-08-07 17:12:24,iPad,click,1956.11,tablet,0
+588,158,2023-07-11 21:40:02,iPhone,browse,1520.23,smartphone,0
+589,147,2023-01-17 08:00:03,Apple Watch,browse,2887.35,wearable,0
+590,145,2023-01-12 05:03:50,iPhone,view,2092.92,smartphone,0
+591,120,2023-07-12 04:57:42,iPad,browse,2741.61,tablet,0
+592,319,2023-01-22 12:02:35,iPad,browse,2243.09,tablet,0
+593,275,2023-04-30 08:40:59,AirPods,view,2259.03,accessory,0
+594,92,2023-07-29 08:33:15,iPhone,click,423.13,smartphone,0
+595,58,2023-11-02 02:26:10,iPhone,browse,1205.86,smartphone,0
+596,439,2023-09-27 03:04:53,iPhone,click,2603.29,smartphone,0
+597,346,2023-07-11 12:56:11,iPhone,click,850.52,smartphone,1
+598,229,2023-06-24 00:03:13,iPhone,view,522.53,smartphone,0
+599,474,2023-10-12 04:52:49,Mac,browse,1112.42,laptop,0
+600,117,2023-07-23 03:06:30,iPhone,browse,816.45,smartphone,0
+601,318,2023-06-13 17:27:04,iPhone,click,2790.73,smartphone,0
+602,279,2023-09-08 11:52:32,Mac,click,2630.17,laptop,0
+603,127,2023-08-15 08:58:47,iPhone,add_to_cart,1598.61,smartphone,1
+604,393,2023-01-07 11:41:10,iPhone,view,370.82,smartphone,0
+605,396,2023-01-29 23:52:05,iPhone,browse,2200.49,smartphone,0
+606,129,2023-02-02 11:09:57,AirPods,browse,1945.18,accessory,0
+607,58,2023-05-14 00:37:41,iPhone,click,2917.52,smartphone,0
+608,122,2023-03-20 07:21:52,Apple Watch,browse,1764.63,wearable,0
+609,1,2023-02-27 01:51:56,Mac,browse,1141.24,laptop,0
+610,239,2023-01-26 08:02:13,iPhone,view,1652.78,smartphone,0
+611,290,2023-08-14 01:12:58,AirPods,browse,2941.92,accessory,0
+612,96,2023-10-12 11:16:23,iPhone,browse,2149.51,smartphone,0
+613,126,2023-01-04 23:42:51,iPhone,view,2081.21,smartphone,0
+614,118,2023-04-09 08:03:53,Mac,browse,873.15,laptop,0
+615,48,2023-02-08 06:40:00,Mac,browse,2281.83,laptop,0
+616,89,2023-09-28 21:04:28,Mac,click,2300.51,laptop,0
+617,488,2023-10-12 11:50:04,iPhone,click,1087.73,smartphone,1
+618,237,2023-06-06 18:58:56,iPad,browse,1553.88,tablet,0
+619,373,2023-03-16 20:31:09,Mac,click,1024.18,laptop,0
+620,385,2023-10-15 01:30:10,iPhone,browse,923.63,smartphone,0
+621,272,2023-05-10 23:09:35,iPhone,view,271.53,smartphone,0
+622,189,2023-06-24 15:34:04,iPhone,add_to_cart,997.88,smartphone,0
+623,487,2023-03-25 17:35:15,iPhone,click,1750.67,smartphone,0
+624,192,2023-01-22 19:49:04,Apple Watch,click,203.48,wearable,0
+625,447,2023-01-27 01:53:16,iPad,browse,992.3,tablet,0
+626,69,2023-07-14 15:04:05,AirPods,browse,2667.83,accessory,0
+627,278,2023-12-03 11:57:36,iPhone,add_to_cart,1861.81,smartphone,1
+628,349,2023-08-24 04:55:09,Mac,browse,1901.62,laptop,0
+629,247,2023-04-02 16:15:57,iPhone,browse,1328.82,smartphone,0
+630,451,2023-01-21 04:52:23,iPhone,click,2093.8,smartphone,0
+631,76,2023-10-30 10:23:38,iPhone,click,731.0,smartphone,1
+632,154,2023-12-23 04:38:44,iPhone,add_to_cart,2492.31,smartphone,0
+633,144,2023-03-25 01:03:48,iPad,browse,525.85,tablet,0
+634,435,2023-09-19 04:44:47,AirPods,add_to_cart,2036.46,accessory,1
+635,485,2023-05-27 03:30:05,Mac,browse,1154.56,laptop,0
+636,86,2023-09-14 08:42:17,iPhone,browse,2292.78,smartphone,0
+637,185,2023-02-27 01:31:22,iPhone,view,1738.89,smartphone,0
+638,285,2023-01-15 18:08:53,iPhone,browse,1466.04,smartphone,0
+639,462,2023-06-11 14:09:12,iPad,browse,673.55,tablet,0
+640,220,2023-06-12 01:31:03,Mac,view,1982.74,laptop,0
+641,69,2023-11-16 19:34:08,Apple Watch,browse,2929.33,wearable,0
+642,47,2023-10-08 01:17:28,iPhone,browse,2511.52,smartphone,0
+643,497,2023-10-07 09:20:23,iPad,browse,367.08,tablet,0
+644,94,2023-01-12 16:25:56,iPad,view,1252.82,tablet,0
+645,238,2023-10-01 09:53:54,Mac,view,2791.56,laptop,0
+646,446,2023-09-28 12:23:22,iPad,click,1608.03,tablet,0
+647,453,2023-07-27 13:42:14,Mac,click,2053.58,laptop,0
+648,204,2023-01-27 19:04:08,Mac,view,2755.19,laptop,0
+649,400,2023-03-13 06:07:34,iPhone,click,2646.5,smartphone,0
+650,218,2023-03-01 19:27:08,Mac,browse,1604.6,laptop,0
+651,474,2023-05-25 06:10:07,iPhone,browse,1424.85,smartphone,0
+652,432,2023-04-03 22:24:10,Mac,click,1150.48,laptop,1
+653,341,2023-11-05 22:39:14,iPad,browse,2212.97,tablet,1
+654,39,2023-01-08 05:56:26,iPad,purchase,1002.85,tablet,1
+655,100,2023-03-20 23:07:56,Apple Watch,view,898.94,wearable,0
+656,289,2023-01-27 16:31:58,Apple Watch,click,1196.86,wearable,0
+657,254,2023-06-23 14:39:41,Mac,view,695.38,laptop,0
+658,222,2023-02-19 14:39:40,iPad,view,2146.03,tablet,0
+659,357,2023-07-18 17:04:00,Mac,browse,1925.09,laptop,0
+660,23,2023-12-15 12:16:39,iPad,click,1551.54,tablet,0
+661,250,2023-06-30 16:57:15,Apple Watch,view,1292.3,wearable,0
+662,10,2023-01-24 02:16:50,iPad,add_to_cart,2745.28,tablet,1
+663,246,2023-11-12 12:19:23,AirPods,browse,280.58,accessory,0
+664,325,2023-02-15 21:44:39,Apple Watch,browse,2353.27,wearable,0
+665,100,2023-01-15 16:45:48,Mac,browse,2725.25,laptop,0
+666,290,2023-06-02 15:21:24,iPhone,view,1449.24,smartphone,0
+667,180,2023-08-10 20:02:04,iPhone,add_to_cart,1741.48,smartphone,0
+668,223,2023-07-25 19:07:27,Apple Watch,browse,2844.44,wearable,0
+669,394,2023-09-30 06:13:52,iPhone,view,793.59,smartphone,0
+670,250,2023-08-24 17:48:09,Apple Watch,browse,1655.9,wearable,0
+671,147,2023-12-06 15:23:18,iPad,view,1528.69,tablet,0
+672,442,2023-08-16 00:55:21,iPad,add_to_cart,922.76,tablet,0
+673,96,2023-01-09 22:35:48,Apple Watch,browse,2491.88,wearable,0
+674,257,2023-06-15 10:23:03,Mac,view,2718.78,laptop,0
+675,325,2023-11-15 21:51:22,iPad,purchase,2389.19,tablet,1
+676,493,2023-08-02 21:59:50,iPad,add_to_cart,746.2,tablet,1
+677,4,2023-04-27 14:41:33,iPhone,view,441.98,smartphone,0
+678,16,2023-12-10 09:57:00,Mac,view,1894.85,laptop,0
+679,280,2023-03-13 18:24:22,iPhone,browse,358.92,smartphone,0
+680,336,2023-03-05 01:02:40,Apple Watch,view,2083.59,wearable,0
+681,247,2023-07-24 06:09:50,Apple Watch,click,1684.72,wearable,0
+682,258,2023-07-28 18:43:31,iPhone,view,2055.46,smartphone,0
+683,497,2023-03-13 06:29:37,Mac,browse,1852.07,laptop,0
+684,476,2023-10-04 12:58:57,iPad,browse,1382.99,tablet,0
+685,384,2023-10-01 19:19:29,iPhone,browse,761.66,smartphone,0
+686,160,2023-11-16 10:36:51,AirPods,browse,1055.27,accessory,0
+687,475,2023-12-04 23:01:49,iPhone,browse,1668.13,smartphone,0
+688,340,2023-04-05 01:02:24,iPhone,view,2024.88,smartphone,0
+689,152,2023-06-15 06:56:35,iPad,browse,2382.33,tablet,0
+690,396,2023-02-01 04:42:57,iPad,browse,2347.85,tablet,0
+691,178,2023-01-11 09:35:42,iPad,view,2923.5,tablet,0
+692,163,2023-10-28 02:57:31,Mac,browse,999.64,laptop,0
+693,380,2023-08-05 21:55:31,Mac,browse,398.18,laptop,0
+694,33,2023-10-16 04:38:35,Mac,browse,1167.19,laptop,0
+695,417,2023-04-12 12:20:09,iPhone,browse,2280.97,smartphone,0
+696,445,2023-09-24 06:45:06,iPhone,view,1426.15,smartphone,0
+697,179,2023-08-02 05:18:06,iPhone,browse,2489.63,smartphone,0
+698,427,2023-06-28 03:59:36,iPhone,click,1737.66,smartphone,0
+699,101,2023-03-29 17:02:30,iPad,add_to_cart,2803.35,tablet,0
+700,268,2023-02-10 19:50:25,iPhone,click,2853.97,smartphone,1
+701,323,2023-03-17 10:10:36,iPhone,view,393.12,smartphone,0
+702,65,2023-02-15 23:55:20,iPhone,add_to_cart,1477.41,smartphone,1
+703,417,2023-06-09 14:20:49,Apple Watch,view,1906.74,wearable,0
+704,168,2023-03-21 09:36:50,Apple Watch,browse,915.7,wearable,0
+705,330,2023-11-06 02:47:38,Mac,browse,1339.22,laptop,0
+706,43,2023-03-27 20:43:57,Apple Watch,add_to_cart,2097.19,wearable,1
+707,44,2023-04-02 21:40:33,Mac,browse,834.08,laptop,0
+708,285,2023-05-28 19:29:54,iPad,browse,1885.15,tablet,0
+709,397,2023-06-10 21:21:57,iPhone,click,2152.55,smartphone,0
+710,12,2023-07-21 17:50:00,Mac,click,452.48,laptop,0
+711,95,2023-08-30 12:56:59,Mac,browse,1592.58,laptop,0
+712,302,2023-12-19 04:45:54,Mac,view,935.89,laptop,0
+713,386,2023-01-02 05:25:39,Mac,browse,2228.01,laptop,0
+714,253,2023-08-13 16:40:58,iPad,click,729.94,tablet,0
+715,499,2023-10-16 17:14:28,Mac,browse,2698.16,laptop,0
+716,242,2023-08-21 21:28:33,Apple Watch,browse,1406.07,wearable,0
+717,35,2023-03-18 08:26:13,iPhone,click,753.61,smartphone,0
+718,215,2023-04-26 09:12:34,Mac,view,1425.9,laptop,1
+719,337,2023-06-03 01:40:31,iPad,view,1343.89,tablet,0
+720,90,2023-04-13 19:59:35,Mac,view,1400.4,laptop,0
+721,264,2023-07-13 06:19:45,Mac,browse,1839.16,laptop,0
+722,93,2023-06-15 21:55:28,iPhone,view,1658.81,smartphone,0
+723,410,2023-12-25 07:57:49,Mac,browse,618.53,laptop,0
+724,458,2023-03-31 00:38:02,iPhone,browse,382.69,smartphone,0
+725,90,2023-06-23 09:37:04,Mac,browse,2242.09,laptop,0
+726,418,2023-05-02 13:27:18,iPad,view,1766.77,tablet,0
+727,115,2023-05-23 18:45:34,Mac,add_to_cart,1204.56,laptop,0
+728,105,2023-04-16 08:48:25,iPhone,purchase,2463.21,smartphone,1
+729,391,2023-11-01 10:37:24,Mac,view,1285.95,laptop,0
+730,196,2023-12-26 20:49:24,iPhone,browse,2428.5,smartphone,0
+731,314,2023-11-13 10:23:57,Apple Watch,view,1055.42,wearable,0
+732,114,2023-05-03 21:37:52,Apple Watch,click,403.04,wearable,0
+733,493,2023-01-09 20:47:58,AirPods,browse,2811.32,accessory,0
+734,75,2023-09-19 20:16:22,Mac,purchase,1304.14,laptop,1
+735,413,2023-03-14 14:03:03,Mac,browse,2419.33,laptop,0
+736,376,2023-12-25 10:39:52,iPhone,purchase,980.88,smartphone,1
+737,420,2023-08-11 02:04:21,iPhone,click,2009.47,smartphone,0
+738,217,2023-02-10 02:55:16,iPad,click,2645.14,tablet,1
+739,277,2023-07-23 22:01:25,Mac,browse,315.64,laptop,0
+740,249,2023-09-21 04:51:54,Apple Watch,browse,2525.61,wearable,0
+741,164,2023-11-24 10:04:28,iPhone,browse,1799.3,smartphone,0
+742,394,2023-06-27 10:13:08,Apple Watch,browse,1900.53,wearable,0
+743,357,2023-12-14 21:02:29,Mac,browse,1664.37,laptop,0
+744,457,2023-11-14 16:57:29,Mac,view,2648.4,laptop,0
+745,408,2023-03-25 17:21:33,iPhone,view,320.66,smartphone,0
+746,192,2023-11-14 10:00:27,iPhone,view,930.14,smartphone,0
+747,227,2023-04-21 11:54:09,iPad,view,2652.01,tablet,0
+748,177,2023-09-08 04:57:38,Mac,browse,2306.32,laptop,0
+749,99,2023-01-07 23:22:42,iPhone,purchase,248.42,smartphone,1
+750,496,2023-03-25 21:56:43,iPad,browse,1647.13,tablet,0
+751,36,2023-07-27 14:33:15,Apple Watch,view,1682.33,wearable,0
+752,466,2023-11-10 11:02:38,Mac,view,1321.87,laptop,0
+753,497,2023-01-22 15:05:12,Apple Watch,click,1032.0,wearable,0
+754,487,2023-01-03 19:04:30,iPhone,browse,2108.51,smartphone,0
+755,96,2023-05-07 22:51:19,iPhone,view,781.02,smartphone,0
+756,152,2023-10-24 04:17:14,Mac,view,2436.85,laptop,0
+757,151,2023-07-07 17:47:27,iPad,browse,2448.31,tablet,0
+758,190,2023-12-28 13:16:15,iPhone,view,1362.15,smartphone,0
+759,224,2023-01-14 21:02:49,iPhone,add_to_cart,993.22,smartphone,1
+760,37,2023-01-12 18:31:17,iPad,purchase,994.14,tablet,1
+761,268,2023-03-28 23:12:35,iPhone,browse,1549.9,smartphone,0
+762,369,2023-01-12 23:52:00,iPhone,browse,2214.54,smartphone,0
+763,183,2023-01-25 12:42:14,iPhone,browse,1204.19,smartphone,0
+764,13,2023-10-28 11:16:43,iPhone,browse,1907.73,smartphone,0
+765,279,2023-08-31 21:18:28,Mac,browse,1270.34,laptop,0
+766,217,2023-05-02 22:45:26,iPad,browse,1051.97,tablet,0
+767,355,2023-05-27 19:06:43,Mac,purchase,268.63,laptop,1
+768,361,2023-02-24 10:55:32,iPhone,add_to_cart,209.96,smartphone,1
+769,286,2023-08-26 05:55:12,iPhone,browse,835.41,smartphone,0
+770,273,2023-12-22 23:28:46,Mac,browse,1337.34,laptop,0
+771,369,2023-06-22 12:16:19,iPad,view,2583.38,tablet,0
+772,62,2023-08-09 19:50:42,iPad,browse,2435.55,tablet,0
+773,84,2023-04-29 11:12:59,iPhone,view,947.33,smartphone,0
+774,368,2023-11-05 04:48:17,Apple Watch,view,883.96,wearable,0
+775,217,2023-07-02 00:33:31,iPhone,add_to_cart,835.73,smartphone,0
+776,342,2023-10-15 12:13:34,iPad,click,1149.2,tablet,0
+777,397,2023-11-03 03:15:38,Mac,view,1594.45,laptop,1
+778,187,2023-10-27 13:11:38,iPad,view,1427.71,tablet,0
+779,19,2023-03-23 03:05:20,iPhone,browse,810.38,smartphone,0
+780,177,2023-07-30 02:26:07,iPad,view,564.39,tablet,0
+781,100,2023-05-30 06:20:52,Mac,view,234.23,laptop,0
+782,396,2023-02-06 22:00:39,iPhone,browse,630.25,smartphone,0
+783,445,2023-12-18 00:15:29,iPhone,browse,2174.7,smartphone,0
+784,233,2023-11-08 21:31:27,iPhone,browse,881.43,smartphone,0
+785,403,2023-12-27 04:50:38,Mac,add_to_cart,1511.55,laptop,1
+786,76,2023-02-28 13:28:35,iPhone,browse,1855.23,smartphone,0
+787,265,2023-05-11 01:35:44,AirPods,browse,2683.04,accessory,0
+788,455,2023-07-21 23:17:00,iPad,browse,2688.68,tablet,0
+789,284,2023-08-31 11:46:57,AirPods,view,2287.8,accessory,0
+790,206,2023-02-04 01:57:49,Apple Watch,browse,297.47,wearable,0
+791,223,2023-04-03 11:45:59,iPad,purchase,1809.77,tablet,1
+792,384,2023-07-26 05:29:59,iPhone,add_to_cart,2402.22,smartphone,0
+793,52,2023-12-19 19:29:48,iPhone,view,247.42,smartphone,0
+794,339,2023-11-28 02:06:37,iPhone,view,1738.67,smartphone,0
+795,367,2023-11-01 13:04:53,Mac,browse,2601.6,laptop,0
+796,144,2023-12-16 10:20:26,iPhone,browse,1526.96,smartphone,0
+797,373,2023-08-01 20:02:07,iPhone,click,210.5,smartphone,1
+798,69,2023-06-08 21:29:22,iPad,browse,229.85,tablet,0
+799,99,2023-01-24 07:20:17,Apple Watch,browse,1366.0,wearable,0
+800,396,2023-10-20 05:11:33,iPhone,view,633.18,smartphone,0
+801,25,2023-01-04 22:07:54,iPhone,browse,2060.13,smartphone,0
+802,436,2023-08-08 14:46:01,iPhone,add_to_cart,2184.35,smartphone,1
+803,379,2023-12-30 00:36:09,Apple Watch,browse,697.24,wearable,0
+804,469,2023-01-20 23:21:32,Mac,click,2687.78,laptop,0
+805,484,2023-06-01 06:07:32,iPhone,view,1436.78,smartphone,0
+806,53,2023-02-19 19:57:29,iPhone,click,599.11,smartphone,0
+807,151,2023-06-26 20:30:51,iPhone,browse,2339.67,smartphone,0
+808,144,2023-04-06 02:13:56,iPhone,view,2411.72,smartphone,0
+809,57,2023-04-15 08:49:38,Apple Watch,add_to_cart,1989.67,wearable,0
+810,39,2023-09-07 07:42:14,Mac,view,2589.56,laptop,0
+811,109,2023-04-27 06:26:13,iPad,browse,2264.38,tablet,0
+812,181,2023-12-20 08:26:43,Apple Watch,view,2670.06,wearable,0
+813,42,2023-08-16 18:25:21,iPhone,click,1414.32,smartphone,0
+814,186,2023-03-07 19:54:35,Mac,view,2293.02,laptop,0
+815,423,2023-12-01 01:45:44,Apple Watch,add_to_cart,2999.3,wearable,0
+816,398,2023-09-19 05:13:20,iPhone,browse,2229.53,smartphone,0
+817,223,2023-10-22 07:02:52,Mac,view,518.83,laptop,0
+818,122,2023-08-31 17:05:16,iPhone,click,1650.81,smartphone,1
+819,133,2023-07-05 05:42:18,iPhone,view,1844.16,smartphone,0
+820,163,2023-09-03 17:45:18,iPhone,add_to_cart,686.96,smartphone,1
+821,215,2023-05-05 04:09:33,iPad,purchase,2896.06,tablet,1
+822,221,2023-09-25 19:45:55,Mac,view,690.8,laptop,0
+823,235,2023-05-11 16:31:40,Apple Watch,browse,696.34,wearable,0
+824,331,2023-08-25 10:09:35,Mac,browse,2762.38,laptop,0
+825,146,2023-01-18 11:44:21,Apple Watch,click,1502.04,wearable,0
+826,239,2023-02-09 07:41:56,Mac,add_to_cart,375.99,laptop,1
+827,76,2023-01-21 00:53:56,iPhone,browse,1874.52,smartphone,1
+828,9,2023-08-13 04:24:08,iPad,browse,1884.72,tablet,0
+829,74,2023-12-21 00:39:12,iPhone,browse,379.67,smartphone,0
+830,442,2023-10-09 00:32:12,Mac,click,2923.04,laptop,0
+831,492,2023-01-08 21:14:09,Apple Watch,browse,1722.83,wearable,0
+832,401,2023-04-10 02:22:36,iPhone,view,1766.99,smartphone,0
+833,253,2023-08-28 01:31:38,Mac,view,1655.84,laptop,0
+834,230,2023-03-28 21:08:38,Mac,click,1909.66,laptop,0
+835,7,2023-10-25 13:54:58,iPad,view,939.3,tablet,0
+836,174,2023-01-14 17:53:06,iPhone,view,1003.56,smartphone,1
+837,141,2023-11-30 02:39:29,iPhone,browse,1631.26,smartphone,1
+838,168,2023-01-02 15:48:02,iPhone,view,2458.53,smartphone,0
+839,170,2023-10-20 19:33:13,iPhone,click,338.67,smartphone,0
+840,393,2023-11-21 00:05:40,iPhone,purchase,1889.14,smartphone,1
+841,434,2023-02-10 12:12:29,iPad,browse,2458.79,tablet,0
+842,283,2023-11-14 22:51:42,iPhone,browse,638.53,smartphone,0
+843,122,2023-11-12 17:20:43,Apple Watch,browse,241.08,wearable,0
+844,194,2023-04-21 20:33:47,iPad,browse,1074.91,tablet,0
+845,5,2023-01-14 00:02:18,Mac,click,1846.39,laptop,0
+846,29,2023-08-19 00:05:58,iPad,browse,586.33,tablet,0
+847,165,2023-03-25 20:54:10,iPad,view,1392.57,tablet,0
+848,422,2023-05-10 23:42:56,Apple Watch,browse,1746.05,wearable,0
+849,339,2023-08-19 08:30:54,iPhone,browse,1876.47,smartphone,0
+850,136,2023-11-22 07:11:19,iPhone,view,967.63,smartphone,0
+851,496,2023-05-25 22:38:52,Mac,browse,1319.48,laptop,0
+852,365,2023-12-11 15:29:38,iPhone,browse,2379.13,smartphone,0
+853,321,2023-01-28 10:29:32,iPhone,click,2835.34,smartphone,0
+854,342,2023-03-07 16:14:38,iPhone,view,2613.13,smartphone,0
+855,145,2023-06-12 17:52:33,iPhone,browse,1779.56,smartphone,0
+856,327,2023-08-17 07:26:02,iPad,purchase,1348.23,tablet,1
+857,217,2023-09-18 03:41:23,iPhone,view,1131.61,smartphone,0
+858,301,2023-06-13 17:45:22,Apple Watch,click,549.0,wearable,0
+859,132,2023-10-28 10:57:00,Mac,browse,497.45,laptop,0
+860,292,2023-10-30 15:26:08,Mac,browse,2127.09,laptop,0
+861,70,2023-10-14 23:38:10,Mac,browse,926.68,laptop,0
+862,252,2023-01-10 05:36:59,Apple Watch,browse,912.31,wearable,0
+863,415,2023-07-14 15:52:49,iPhone,view,2994.94,smartphone,1
+864,275,2023-04-28 20:49:25,Apple Watch,add_to_cart,725.38,wearable,1
+865,445,2023-09-27 13:00:40,Mac,view,613.72,laptop,0
+866,364,2023-03-21 12:24:55,Mac,browse,475.42,laptop,0
+867,182,2023-04-03 23:32:34,iPad,view,1823.03,tablet,0
+868,167,2023-09-23 21:39:48,iPhone,browse,1957.65,smartphone,0
+869,91,2023-11-28 16:12:22,iPad,view,1222.0,tablet,0
+870,202,2023-12-16 05:15:51,Mac,view,1698.69,laptop,0
+871,346,2023-12-27 00:21:47,iPhone,click,2407.31,smartphone,0
+872,19,2023-09-14 22:19:48,Mac,purchase,2490.51,laptop,1
+873,39,2023-05-13 09:50:28,iPhone,browse,2882.11,smartphone,0
+874,126,2023-10-03 21:02:54,iPhone,view,2507.77,smartphone,0
+875,451,2023-09-21 10:49:35,iPhone,add_to_cart,1781.12,smartphone,0
+876,173,2023-06-20 00:19:00,iPhone,click,702.22,smartphone,1
+877,141,2023-01-01 06:54:02,iPad,view,478.44,tablet,1
+878,242,2023-11-09 07:20:21,iPhone,add_to_cart,351.69,smartphone,1
+879,220,2023-03-05 00:28:28,AirPods,browse,2065.94,accessory,0
+880,126,2023-10-11 01:00:30,iPad,add_to_cart,2460.91,tablet,1
+881,58,2023-05-01 05:26:35,iPhone,browse,1623.82,smartphone,0
+882,148,2023-04-17 21:07:01,Mac,view,352.25,laptop,1
+883,476,2023-06-24 07:51:48,Apple Watch,add_to_cart,1698.85,wearable,0
+884,456,2023-07-23 12:26:29,Mac,browse,2820.03,laptop,0
+885,317,2023-06-14 15:28:10,iPhone,view,1872.91,smartphone,0
+886,383,2023-11-01 07:14:46,Apple Watch,browse,2466.21,wearable,0
+887,361,2023-04-30 04:40:59,Mac,purchase,2440.23,laptop,1
+888,423,2023-02-13 02:08:04,iPhone,click,2809.89,smartphone,0
+889,1,2023-11-08 00:20:07,iPhone,click,2356.41,smartphone,0
+890,387,2023-06-05 12:48:19,iPad,view,2293.31,tablet,0
+891,461,2023-07-26 18:44:56,iPhone,click,854.72,smartphone,0
+892,348,2023-04-18 18:21:33,Mac,browse,366.85,laptop,0
+893,190,2023-09-08 08:14:49,iPhone,view,1648.8,smartphone,0
+894,191,2023-11-30 13:30:51,Apple Watch,click,547.54,wearable,1
+895,369,2023-05-10 03:51:33,iPad,browse,2894.11,tablet,0
+896,409,2023-10-20 18:26:58,iPhone,browse,1011.08,smartphone,0
+897,312,2023-01-20 16:40:11,iPhone,browse,2588.1,smartphone,0
+898,417,2023-10-09 10:43:55,iPad,browse,1284.74,tablet,0
+899,422,2023-10-12 15:35:15,Mac,add_to_cart,1104.27,laptop,0
+900,117,2023-01-01 21:46:45,Mac,view,2818.38,laptop,0
+901,134,2023-04-29 20:11:42,iPhone,click,1216.67,smartphone,1
+902,58,2023-02-04 21:48:38,iPhone,browse,1292.2,smartphone,0
+903,44,2023-07-17 20:13:25,iPhone,browse,496.16,smartphone,0
+904,173,2023-09-02 16:22:34,Mac,browse,2076.92,laptop,0
+905,160,2023-02-28 07:47:44,iPhone,click,1008.04,smartphone,1
+906,173,2023-11-21 21:57:43,iPad,view,1839.28,tablet,0
+907,317,2023-06-10 00:40:54,Mac,add_to_cart,1855.38,laptop,0
+908,303,2023-06-28 05:47:58,Apple Watch,view,2213.48,wearable,0
+909,149,2023-07-25 14:11:38,iPhone,view,2286.42,smartphone,0
+910,80,2023-01-12 17:15:54,iPhone,view,1639.98,smartphone,0
+911,374,2023-10-03 03:36:31,Mac,add_to_cart,1126.11,laptop,0
+912,213,2023-06-30 18:59:04,Mac,click,2544.7,laptop,0
+913,203,2023-08-30 10:09:53,iPhone,browse,1066.93,smartphone,0
+914,252,2023-08-04 10:05:04,Apple Watch,view,1620.53,wearable,0
+915,229,2023-09-08 08:26:26,Mac,view,1322.91,laptop,0
+916,164,2023-10-26 15:20:20,iPhone,click,2594.07,smartphone,0
+917,227,2023-05-06 19:15:38,iPhone,browse,1408.8,smartphone,0
+918,147,2023-08-05 05:51:23,iPad,add_to_cart,1280.46,tablet,1
+919,20,2023-11-02 05:05:54,Mac,purchase,2131.2,laptop,1
+920,441,2023-10-12 06:09:50,iPhone,browse,1886.44,smartphone,0
+921,402,2023-07-04 01:42:22,Mac,add_to_cart,499.4,laptop,1
+922,47,2023-02-08 07:53:18,Mac,browse,1622.38,laptop,0
+923,233,2023-08-11 14:26:11,iPhone,browse,2259.07,smartphone,0
+924,305,2023-07-03 11:37:42,Mac,browse,2977.8,laptop,0
+925,14,2023-06-27 14:50:10,Apple Watch,browse,1961.24,wearable,0
+926,143,2023-10-21 05:25:03,iPhone,click,1236.19,smartphone,0
+927,415,2023-12-06 13:27:36,iPhone,browse,832.45,smartphone,0
+928,1,2023-05-31 22:47:15,iPad,browse,2643.8,tablet,0
+929,373,2023-05-06 02:13:36,Apple Watch,browse,2480.6,wearable,0
+930,54,2023-10-28 00:39:44,AirPods,browse,854.22,accessory,0
+931,374,2023-11-04 17:18:40,iPad,browse,760.97,tablet,0
+932,259,2023-12-02 04:11:12,Mac,view,2202.1,laptop,0
+933,144,2023-08-22 22:13:38,iPad,browse,1081.18,tablet,0
+934,471,2023-01-08 11:15:10,iPad,add_to_cart,1057.22,tablet,1
+935,441,2023-12-07 13:35:33,iPhone,click,625.56,smartphone,1
+936,459,2023-05-09 06:03:46,iPhone,browse,938.4,smartphone,0
+937,12,2023-09-21 18:53:46,iPhone,add_to_cart,1396.45,smartphone,1
+938,330,2023-06-06 07:05:18,iPad,browse,2251.68,tablet,0
+939,224,2023-12-18 06:40:45,iPhone,browse,1141.0,smartphone,0
+940,272,2023-12-24 14:07:56,Apple Watch,browse,1119.42,wearable,0
+941,456,2023-01-05 14:25:19,iPhone,browse,997.04,smartphone,0
+942,358,2023-03-27 07:31:43,iPhone,view,1538.67,smartphone,0
+943,460,2023-06-24 10:03:08,iPad,click,704.96,tablet,1
+944,408,2023-10-17 01:37:25,Mac,browse,1559.25,laptop,0
+945,156,2023-07-12 10:11:14,iPhone,click,2171.4,smartphone,1
+946,373,2023-11-07 05:22:17,iPhone,browse,282.44,smartphone,0
+947,8,2023-04-29 06:11:53,AirPods,click,226.39,accessory,0
+948,122,2023-08-06 07:29:03,iPhone,browse,409.42,smartphone,0
+949,348,2023-04-24 21:39:09,iPhone,browse,1699.38,smartphone,0
+950,164,2023-05-25 00:04:36,Mac,browse,2592.33,laptop,0
+951,90,2023-01-26 14:12:31,iPhone,browse,212.68,smartphone,0
+952,136,2023-05-16 04:53:31,iPad,view,2822.59,tablet,0
+953,186,2023-10-30 03:19:04,iPhone,click,496.69,smartphone,0
+954,316,2023-08-20 14:41:27,iPhone,browse,2557.4,smartphone,0
+955,178,2023-03-17 22:37:22,iPhone,click,1551.48,smartphone,0
+956,28,2023-11-24 13:50:47,iPhone,view,2045.86,smartphone,0
+957,220,2023-12-11 16:17:33,iPhone,add_to_cart,1629.42,smartphone,0
+958,357,2023-10-29 23:54:32,iPhone,browse,1535.21,smartphone,0
+959,41,2023-10-16 15:43:42,Mac,view,2537.55,laptop,0
+960,228,2023-01-01 07:43:30,iPhone,add_to_cart,2316.24,smartphone,1
+961,192,2023-05-27 21:37:22,iPad,view,1553.01,tablet,0
+962,411,2023-10-14 02:55:03,Apple Watch,browse,511.69,wearable,0
+963,447,2023-05-22 23:32:41,Mac,browse,522.24,laptop,0
+964,145,2023-02-22 10:16:16,iPhone,browse,2444.11,smartphone,0
+965,201,2023-10-31 03:13:10,Apple Watch,view,1681.82,wearable,1
+966,417,2023-03-10 03:01:26,iPhone,click,1547.93,smartphone,0
+967,212,2023-12-27 03:34:26,iPhone,browse,2105.27,smartphone,0
+968,461,2023-03-31 18:30:24,Mac,view,2604.62,laptop,0
+969,220,2023-08-08 19:08:19,iPad,view,1960.47,tablet,0
+970,240,2023-07-11 09:06:32,iPad,view,2335.74,tablet,0
+971,413,2023-03-04 02:42:44,iPhone,view,2342.52,smartphone,0
+972,397,2023-03-14 23:55:56,iPad,click,1196.89,tablet,1
+973,46,2023-06-10 11:52:07,iPhone,browse,966.71,smartphone,0
+974,35,2023-06-18 21:47:51,Apple Watch,add_to_cart,2443.06,wearable,0
+975,253,2023-03-30 02:14:28,iPhone,browse,1255.48,smartphone,0
+976,390,2023-06-25 02:01:35,Apple Watch,browse,2729.24,wearable,0
+977,82,2023-09-26 11:26:00,iPad,browse,394.2,tablet,0
+978,371,2023-03-14 03:09:50,Mac,browse,362.07,laptop,0
+979,256,2023-09-02 05:35:31,Mac,browse,2795.54,laptop,0
+980,197,2023-03-18 21:06:09,Mac,browse,2015.32,laptop,0
+981,303,2023-06-08 04:10:38,iPhone,click,1262.26,smartphone,1
+982,409,2023-11-20 14:32:07,iPhone,browse,2313.92,smartphone,0
+983,450,2023-04-08 21:24:24,iPhone,click,2082.19,smartphone,0
+984,10,2023-04-12 05:54:41,Apple Watch,browse,1686.89,wearable,0
+985,312,2023-05-12 15:03:09,Mac,add_to_cart,475.94,laptop,1
+986,286,2023-04-12 13:28:31,iPad,click,2473.92,tablet,0
+987,242,2023-01-19 02:23:25,iPhone,browse,2624.73,smartphone,0
+988,251,2023-03-23 00:23:01,iPhone,click,681.24,smartphone,0
+989,365,2023-10-06 18:30:34,Mac,view,2581.28,laptop,0
+990,5,2023-12-05 05:30:10,iPad,click,2657.85,tablet,0
+991,119,2023-12-31 06:45:22,Mac,view,1737.95,laptop,0
+992,289,2023-11-27 11:37:49,AirPods,view,2036.96,accessory,0
+993,374,2023-05-09 09:09:15,iPhone,click,1269.65,smartphone,0
+994,65,2023-12-10 17:03:08,iPad,view,988.3,tablet,0
+995,146,2023-11-06 02:50:07,iPad,browse,2221.27,tablet,0
+996,224,2023-03-30 18:47:08,iPhone,click,2613.11,smartphone,1
+997,239,2023-08-01 07:50:20,iPhone,browse,2031.07,smartphone,0
+998,177,2023-05-23 23:20:50,iPhone,view,1631.97,smartphone,0
+999,267,2023-03-06 20:34:45,Apple Watch,browse,644.15,wearable,0
+1000,341,2023-03-17 06:07:11,iPad,view,348.74,tablet,0
+1001,282,2023-07-18 19:38:41,iPad,purchase,1447.38,tablet,1
+1002,63,2023-05-23 22:26:47,Apple Watch,browse,337.23,wearable,0
+1003,217,2023-11-12 19:48:32,Mac,browse,1793.71,laptop,0
+1004,342,2023-04-03 16:36:06,iPhone,view,1271.02,smartphone,0
+1005,315,2023-11-01 03:27:29,iPad,click,2319.89,tablet,0
+1006,283,2023-08-12 15:44:59,iPad,view,1055.12,tablet,0
+1007,177,2023-10-18 22:34:13,Mac,browse,1859.94,laptop,0
+1008,461,2023-04-12 12:48:12,Mac,add_to_cart,1705.05,laptop,0
+1009,417,2023-09-24 17:41:11,Mac,view,212.2,laptop,0
+1010,98,2023-12-21 02:52:30,iPhone,browse,401.76,smartphone,0
+1011,105,2023-04-20 19:01:27,Mac,browse,1012.32,laptop,0
+1012,99,2023-11-26 04:53:42,iPhone,view,2670.14,smartphone,1
+1013,385,2023-09-22 19:31:03,iPhone,browse,610.79,smartphone,0
+1014,405,2023-01-03 14:45:17,iPhone,browse,2190.22,smartphone,0
+1015,496,2023-03-26 16:13:14,iPhone,add_to_cart,2925.4,smartphone,0
+1016,311,2023-10-09 06:36:22,iPhone,browse,2413.38,smartphone,0
+1017,6,2023-11-24 07:54:14,Mac,click,879.49,laptop,0
+1018,476,2023-10-31 18:51:44,Apple Watch,browse,2743.33,wearable,0
+1019,465,2023-04-27 04:19:52,iPhone,click,459.79,smartphone,0
+1020,197,2023-08-09 06:09:33,iPhone,click,1510.27,smartphone,0
+1021,351,2023-06-03 09:13:24,iPhone,browse,2685.0,smartphone,0
+1022,133,2023-06-02 09:53:16,iPhone,view,1995.19,smartphone,0
+1023,358,2023-01-12 09:32:04,iPhone,browse,1357.62,smartphone,0
+1024,259,2023-05-13 17:00:02,Apple Watch,add_to_cart,1019.17,wearable,1
+1025,437,2023-10-31 08:32:30,iPhone,add_to_cart,1249.65,smartphone,0
+1026,23,2023-10-20 21:08:32,iPad,view,1624.55,tablet,0
+1027,485,2023-10-27 04:36:06,iPhone,view,1092.64,smartphone,0
+1028,53,2023-08-16 01:59:50,Apple Watch,browse,2913.08,wearable,0
+1029,165,2023-09-28 10:38:53,Mac,click,2812.55,laptop,0
+1030,202,2023-02-12 22:28:25,Apple Watch,browse,2637.75,wearable,0
+1031,458,2023-12-09 00:26:29,Mac,browse,1380.55,laptop,1
+1032,83,2023-11-22 07:00:35,iPhone,view,2135.34,smartphone,0
+1033,145,2023-10-29 00:02:39,iPhone,browse,2727.82,smartphone,0
+1034,85,2023-12-30 03:22:25,Mac,click,2581.05,laptop,0
+1035,78,2023-01-21 22:28:29,iPhone,browse,1359.53,smartphone,0
+1036,457,2023-04-17 08:52:01,iPad,view,513.79,tablet,0
+1037,366,2023-12-02 04:30:37,iPhone,browse,410.84,smartphone,0
+1038,1,2023-10-30 02:17:24,iPhone,browse,1815.36,smartphone,0
+1039,51,2023-04-27 04:05:43,iPad,view,1999.0,tablet,0
+1040,173,2023-05-04 12:48:21,iPad,purchase,2579.41,tablet,1
+1041,205,2023-10-08 23:23:47,Mac,click,1018.33,laptop,0
+1042,260,2023-10-19 15:39:38,iPhone,browse,668.08,smartphone,0
+1043,446,2023-07-22 19:45:26,iPad,browse,1260.6,tablet,0
+1044,449,2023-02-20 15:34:31,iPhone,add_to_cart,1189.36,smartphone,1
+1045,369,2023-09-28 19:45:21,iPhone,view,570.05,smartphone,0
+1046,488,2023-11-20 20:46:03,iPad,browse,2082.06,tablet,0
+1047,288,2023-10-04 03:23:57,iPhone,add_to_cart,1623.85,smartphone,0
+1048,34,2023-05-21 04:20:49,iPhone,click,2218.86,smartphone,0
+1049,348,2023-10-02 10:28:33,iPhone,purchase,1186.89,smartphone,1
+1050,95,2023-10-17 20:24:23,iPhone,add_to_cart,1111.29,smartphone,0
+1051,72,2023-11-30 12:36:49,iPhone,add_to_cart,1522.68,smartphone,1
+1052,39,2023-02-21 13:32:46,iPhone,browse,2656.62,smartphone,0
+1053,154,2023-01-27 12:49:14,iPhone,browse,311.83,smartphone,0
+1054,250,2023-06-06 01:56:56,iPhone,view,2453.34,smartphone,0
+1055,162,2023-08-27 22:06:03,Mac,view,1232.53,laptop,0
+1056,438,2023-06-05 13:31:28,iPhone,view,2592.79,smartphone,0
+1057,118,2023-10-18 15:03:58,iPhone,browse,2445.97,smartphone,0
+1058,259,2023-05-16 16:16:48,iPhone,view,1175.88,smartphone,0
+1059,379,2023-05-24 08:51:37,Mac,view,2142.55,laptop,0
+1060,306,2023-04-16 14:09:21,Apple Watch,browse,646.13,wearable,0
+1061,268,2023-06-07 19:05:03,Mac,browse,2709.48,laptop,0
+1062,449,2023-05-26 12:25:57,Mac,view,1331.98,laptop,0
+1063,54,2023-01-02 07:28:37,iPad,click,1475.21,tablet,0
+1064,236,2023-03-18 06:18:56,Mac,browse,2175.83,laptop,0
+1065,389,2023-05-12 07:46:30,iPad,view,2498.17,tablet,0
+1066,478,2023-03-31 17:22:31,iPhone,click,861.0,smartphone,0
+1067,222,2023-12-11 16:09:21,iPhone,view,2051.44,smartphone,0
+1068,251,2023-12-16 22:07:03,iPhone,browse,1296.99,smartphone,0
+1069,313,2023-09-20 06:14:00,Apple Watch,view,1231.74,wearable,0
+1070,401,2023-12-17 09:46:45,iPad,browse,2131.76,tablet,0
+1071,112,2023-04-18 22:26:51,Mac,add_to_cart,1283.5,laptop,1
+1072,255,2023-03-15 15:18:23,iPhone,browse,1168.45,smartphone,0
+1073,303,2023-02-08 19:40:12,iPad,view,2540.32,tablet,0
+1074,407,2023-06-08 11:33:47,iPhone,browse,482.67,smartphone,0
+1075,207,2023-03-12 05:16:48,iPhone,view,2092.18,smartphone,0
+1076,229,2023-11-08 19:47:54,Mac,view,895.68,laptop,1
+1077,341,2023-08-29 09:00:02,iPad,browse,242.41,tablet,0
+1078,398,2023-10-25 14:49:44,iPhone,view,666.11,smartphone,0
+1079,66,2023-02-05 01:36:33,Mac,browse,1898.26,laptop,0
+1080,75,2023-03-25 01:32:51,iPhone,browse,2185.27,smartphone,0
+1081,435,2023-09-20 04:30:09,AirPods,view,257.98,accessory,0
+1082,103,2023-11-06 11:59:08,iPhone,browse,301.03,smartphone,0
+1083,422,2023-06-21 00:37:04,iPhone,add_to_cart,2727.02,smartphone,0
+1084,192,2023-06-22 13:31:35,iPhone,view,404.33,smartphone,0
+1085,252,2023-12-28 09:00:41,iPhone,view,2703.6,smartphone,0
+1086,226,2023-02-16 10:52:09,iPhone,browse,838.09,smartphone,0
+1087,294,2023-05-21 17:19:28,Mac,view,2271.79,laptop,0
+1088,306,2023-04-28 12:26:00,Apple Watch,click,1066.56,wearable,0
+1089,98,2023-10-04 06:31:18,Mac,browse,2604.36,laptop,0
+1090,338,2023-08-02 19:57:34,iPhone,click,2160.97,smartphone,1
+1091,286,2023-08-08 23:48:36,iPad,browse,1324.48,tablet,0
+1092,335,2023-01-26 03:23:00,iPhone,click,412.72,smartphone,0
+1093,347,2023-01-09 04:16:12,iPhone,browse,2251.29,smartphone,0
+1094,435,2023-09-28 08:16:36,Mac,add_to_cart,1926.89,laptop,0
+1095,447,2023-01-10 16:11:12,iPad,view,207.16,tablet,0
+1096,482,2023-05-01 15:00:40,iPhone,browse,225.39,smartphone,0
+1097,308,2023-05-05 20:55:57,iPhone,browse,2464.43,smartphone,0
+1098,249,2023-06-19 19:49:28,AirPods,view,925.58,accessory,0
+1099,166,2023-03-13 21:45:56,iPhone,purchase,1980.81,smartphone,1
+1100,481,2023-06-01 04:30:11,iPad,browse,1471.25,tablet,0
+1101,472,2023-07-27 01:37:22,iPad,browse,2617.47,tablet,0
+1102,335,2023-02-18 17:31:55,iPhone,view,2767.41,smartphone,0
+1103,30,2023-06-03 18:34:12,iPhone,view,2991.06,smartphone,0
+1104,247,2023-12-13 12:46:08,iPhone,view,629.47,smartphone,0
+1105,106,2023-10-20 04:51:48,Mac,view,2616.16,laptop,1
+1106,51,2023-03-09 06:06:45,iPad,browse,944.13,tablet,0
+1107,81,2023-02-19 15:09:35,Mac,add_to_cart,1853.88,laptop,0
+1108,133,2023-06-01 22:25:42,AirPods,view,1615.67,accessory,0
+1109,285,2023-01-19 05:16:11,Mac,browse,249.38,laptop,0
+1110,388,2023-04-10 07:06:39,iPad,click,2811.69,tablet,0
+1111,138,2023-03-01 18:35:14,iPad,view,418.39,tablet,0
+1112,184,2023-06-16 18:37:35,Mac,browse,2126.7,laptop,0
+1113,401,2023-07-21 01:29:15,Mac,view,2397.8,laptop,0
+1114,330,2023-12-11 15:02:00,iPad,browse,2426.6,tablet,0
+1115,273,2023-05-26 20:43:39,Mac,view,578.52,laptop,0
+1116,340,2023-06-13 10:39:02,iPhone,add_to_cart,1452.64,smartphone,0
+1117,472,2023-08-30 23:53:12,iPad,browse,2522.23,tablet,0
+1118,69,2023-03-10 21:54:20,iPhone,browse,1046.8,smartphone,0
+1119,34,2023-06-24 00:37:37,iPhone,click,1509.16,smartphone,0
+1120,262,2023-02-18 07:36:04,iPhone,purchase,963.1,smartphone,1
+1121,53,2023-04-18 06:56:12,Mac,view,1497.41,laptop,1
+1122,450,2023-08-14 07:24:14,iPad,view,2685.83,tablet,0
+1123,205,2023-06-10 22:26:09,iPhone,view,1473.8,smartphone,0
+1124,126,2023-04-29 22:37:03,iPad,add_to_cart,1756.11,tablet,1
+1125,235,2023-05-29 08:08:40,iPad,add_to_cart,1330.54,tablet,1
+1126,43,2023-05-30 05:46:48,iPhone,browse,1487.79,smartphone,0
+1127,240,2023-10-20 14:33:09,Mac,view,241.5,laptop,0
+1128,459,2023-05-23 09:39:33,Mac,view,993.77,laptop,0
+1129,371,2023-06-09 14:12:48,Mac,click,1421.87,laptop,0
+1130,111,2023-01-11 07:42:27,Mac,view,1974.27,laptop,0
+1131,249,2023-05-18 21:13:16,iPad,view,1459.6,tablet,0
+1132,151,2023-03-19 23:14:52,iPhone,purchase,1145.23,smartphone,1
+1133,183,2023-03-18 15:58:25,iPhone,browse,1286.06,smartphone,0
+1134,336,2023-09-11 23:51:36,iPhone,browse,877.66,smartphone,0
+1135,95,2023-09-15 05:02:15,AirPods,view,2788.51,accessory,0
+1136,459,2023-11-16 13:09:37,iPhone,browse,1660.4,smartphone,0
+1137,374,2023-10-18 06:32:34,iPhone,browse,236.56,smartphone,0
+1138,400,2023-09-20 17:21:31,Apple Watch,browse,253.47,wearable,0
+1139,8,2023-03-26 15:27:01,Apple Watch,view,2924.27,wearable,0
+1140,388,2023-05-26 16:11:23,Mac,add_to_cart,819.28,laptop,1
+1141,360,2023-11-19 23:39:00,iPhone,view,2455.51,smartphone,0
+1142,388,2023-02-11 04:42:03,iPhone,view,362.23,smartphone,0
+1143,184,2023-05-05 13:13:11,iPhone,browse,2779.18,smartphone,0
+1144,281,2023-06-16 17:17:41,iPhone,click,2648.24,smartphone,1
+1145,195,2023-08-29 15:05:36,iPhone,click,1798.63,smartphone,0
+1146,352,2023-10-07 20:34:43,iPad,view,224.21,tablet,0
+1147,195,2023-07-07 16:55:48,Apple Watch,browse,921.13,wearable,0
+1148,155,2023-10-29 09:10:02,iPhone,browse,1338.51,smartphone,0
+1149,93,2023-01-19 22:14:58,Mac,browse,1487.64,laptop,0
+1150,160,2023-03-09 20:16:56,Mac,view,1032.8,laptop,0
+1151,434,2023-08-06 07:24:32,iPhone,click,291.29,smartphone,0
+1152,61,2023-04-12 01:10:13,Mac,add_to_cart,1851.95,laptop,0
+1153,122,2023-02-11 02:51:33,iPhone,view,1667.16,smartphone,0
+1154,51,2023-10-15 15:31:00,iPhone,click,991.68,smartphone,0
+1155,403,2023-06-16 17:21:47,Mac,add_to_cart,305.37,laptop,0
+1156,277,2023-04-19 15:52:14,iPhone,browse,2984.86,smartphone,0
+1157,5,2023-02-05 00:35:00,AirPods,browse,1549.04,accessory,0
+1158,466,2023-08-20 17:13:17,iPhone,add_to_cart,2316.57,smartphone,0
+1159,92,2023-08-17 07:49:32,iPad,browse,1465.93,tablet,0
+1160,170,2023-12-19 05:35:32,iPad,add_to_cart,319.92,tablet,1
+1161,317,2023-06-13 05:03:19,iPhone,purchase,1066.19,smartphone,1
+1162,22,2023-03-14 10:10:09,iPhone,view,1095.63,smartphone,0
+1163,405,2023-05-16 11:56:05,Mac,click,2547.23,laptop,1
+1164,326,2023-12-19 02:13:36,Mac,click,2031.5,laptop,0
+1165,1,2023-03-11 11:02:59,Mac,view,970.48,laptop,0
+1166,133,2023-07-15 08:51:21,iPad,browse,2909.64,tablet,0
+1167,233,2023-09-26 22:56:34,Mac,browse,1099.64,laptop,0
+1168,12,2023-02-18 06:47:52,Mac,browse,2995.05,laptop,0
+1169,346,2023-11-12 14:23:33,Mac,view,2989.25,laptop,0
+1170,46,2023-05-10 10:00:21,iPad,browse,734.58,tablet,0
+1171,34,2023-01-05 15:02:11,Mac,browse,1074.99,laptop,0
+1172,433,2023-01-27 06:41:27,Mac,browse,1560.41,laptop,0
+1173,78,2023-06-09 03:33:48,iPhone,click,2059.15,smartphone,0
+1174,218,2023-05-29 17:06:50,Mac,purchase,1678.06,laptop,1
+1175,301,2023-09-21 00:23:21,iPad,purchase,2914.41,tablet,1
+1176,411,2023-08-18 23:39:39,iPhone,view,2226.89,smartphone,0
+1177,73,2023-07-19 04:13:13,iPhone,add_to_cart,792.94,smartphone,1
+1178,282,2023-02-19 12:27:44,iPhone,click,493.38,smartphone,0
+1179,249,2023-03-08 05:38:27,iPad,view,2127.21,tablet,0
+1180,47,2023-10-27 05:26:51,Mac,view,642.83,laptop,0
+1181,121,2023-02-27 12:09:51,iPhone,browse,2405.28,smartphone,0
+1182,214,2023-09-16 03:19:10,Mac,add_to_cart,1070.21,laptop,1
+1183,239,2023-12-08 21:10:40,Apple Watch,browse,1114.63,wearable,0
+1184,56,2023-11-22 21:30:03,iPhone,view,229.25,smartphone,0
+1185,350,2023-05-10 00:45:45,Apple Watch,view,2162.53,wearable,0
+1186,107,2023-08-03 15:20:43,AirPods,browse,516.27,accessory,0
+1187,319,2023-06-21 01:04:26,Mac,browse,2363.84,laptop,0
+1188,48,2023-09-15 08:57:25,Mac,view,1576.72,laptop,0
+1189,61,2023-04-12 12:25:24,AirPods,browse,2395.77,accessory,0
+1190,337,2023-07-28 19:49:14,Mac,click,1834.58,laptop,0
+1191,26,2023-10-18 14:16:14,iPhone,view,429.9,smartphone,0
+1192,292,2023-12-20 08:21:56,Mac,view,2343.59,laptop,0
+1193,257,2023-10-13 22:30:29,Mac,view,394.51,laptop,0
+1194,8,2023-04-26 05:40:47,iPad,view,1539.84,tablet,0
+1195,113,2023-09-21 08:27:11,iPhone,view,681.75,smartphone,1
+1196,355,2023-05-30 04:58:28,Mac,view,2306.29,laptop,0
+1197,253,2023-10-27 08:08:56,iPhone,click,2752.37,smartphone,1
+1198,180,2023-02-05 11:23:12,Apple Watch,click,1751.11,wearable,0
+1199,207,2023-11-29 15:22:30,iPhone,add_to_cart,1675.54,smartphone,0
+1200,303,2023-10-14 19:19:21,iPhone,browse,2338.86,smartphone,0
+1201,127,2023-10-30 14:25:55,iPad,view,213.23,tablet,0
+1202,56,2023-11-07 17:00:40,iPhone,add_to_cart,2769.64,smartphone,1
+1203,214,2023-07-27 05:34:53,Mac,browse,752.05,laptop,0
+1204,14,2023-04-16 01:42:35,Apple Watch,browse,2955.52,wearable,0
+1205,474,2023-06-07 12:56:47,Mac,view,2261.25,laptop,0
+1206,28,2023-05-01 09:18:07,iPhone,browse,2367.68,smartphone,1
+1207,471,2023-02-24 15:27:48,iPhone,browse,2037.02,smartphone,0
+1208,78,2023-01-12 05:49:23,Mac,purchase,1520.13,laptop,1
+1209,216,2023-05-25 13:55:24,Apple Watch,view,1800.13,wearable,0
+1210,386,2023-05-16 14:41:10,iPad,browse,328.97,tablet,0
+1211,365,2023-01-03 15:42:27,iPad,purchase,1946.71,tablet,1
+1212,154,2023-05-24 17:48:30,iPhone,purchase,1952.7,smartphone,1
+1213,14,2023-01-30 14:52:34,Apple Watch,view,2695.25,wearable,0
+1214,187,2023-08-25 05:48:56,Mac,browse,1615.34,laptop,1
+1215,312,2023-10-06 01:13:46,iPhone,click,415.08,smartphone,0
+1216,371,2023-12-14 07:40:06,iPhone,click,1056.65,smartphone,0
+1217,7,2023-04-25 13:17:12,Apple Watch,view,2035.42,wearable,0
+1218,3,2023-04-14 07:49:11,iPhone,add_to_cart,869.16,smartphone,0
+1219,111,2023-04-28 22:01:43,iPhone,view,984.76,smartphone,0
+1220,407,2023-01-05 03:08:28,iPad,browse,2497.13,tablet,0
+1221,238,2023-12-26 17:22:02,iPhone,view,1835.68,smartphone,0
+1222,363,2023-09-05 12:41:11,iPhone,browse,1623.39,smartphone,0
+1223,239,2023-12-30 00:36:44,Mac,click,1090.98,laptop,1
+1224,493,2023-11-17 08:38:51,Apple Watch,view,2246.33,wearable,0
+1225,274,2023-05-01 14:33:48,Mac,browse,1004.9,laptop,0
+1226,294,2023-10-13 09:24:30,Apple Watch,view,2263.51,wearable,0
+1227,227,2023-05-29 13:37:47,iPad,browse,395.35,tablet,0
+1228,371,2023-03-25 16:16:25,Mac,browse,2620.58,laptop,0
+1229,15,2023-08-19 06:00:07,iPhone,view,1598.29,smartphone,0
+1230,192,2023-10-15 06:56:08,Mac,browse,1427.26,laptop,0
+1231,473,2023-06-10 03:18:28,AirPods,click,1910.48,accessory,0
+1232,119,2023-09-29 07:20:23,iPhone,browse,1947.36,smartphone,0
+1233,485,2023-02-07 20:45:07,iPhone,view,568.83,smartphone,0
+1234,28,2023-08-14 21:44:17,iPad,click,2317.21,tablet,1
+1235,202,2023-05-22 17:00:15,iPhone,view,971.88,smartphone,0
+1236,39,2023-10-19 15:30:35,iPhone,view,2733.8,smartphone,0
+1237,441,2023-05-31 13:43:49,Mac,purchase,2489.8,laptop,1
+1238,273,2023-04-24 22:49:12,AirPods,browse,1168.89,accessory,0
+1239,231,2023-08-25 10:40:58,iPad,browse,2461.48,tablet,0
+1240,86,2023-03-07 12:49:29,iPhone,view,1197.25,smartphone,0
+1241,474,2023-12-27 02:07:39,iPhone,browse,481.75,smartphone,0
+1242,126,2023-12-07 16:50:14,Apple Watch,purchase,2893.25,wearable,1
+1243,300,2023-09-15 21:27:20,iPad,browse,2026.94,tablet,0
+1244,25,2023-09-06 09:06:33,iPhone,click,1476.53,smartphone,0
+1245,145,2023-11-27 12:54:33,iPad,click,1313.16,tablet,0
+1246,13,2023-11-19 15:29:11,iPhone,browse,1108.5,smartphone,0
+1247,212,2023-06-29 21:55:15,iPad,view,2948.03,tablet,0
+1248,25,2023-07-09 15:04:14,Apple Watch,browse,576.43,wearable,0
+1249,68,2023-06-03 01:56:46,iPad,view,1080.77,tablet,0
+1250,394,2023-07-15 20:36:58,Mac,browse,1558.88,laptop,0
+1251,67,2023-11-07 18:09:04,iPhone,add_to_cart,1537.88,smartphone,0
+1252,233,2023-09-19 09:24:00,Mac,purchase,1519.3,laptop,1
+1253,109,2023-05-23 09:00:30,Mac,browse,691.37,laptop,0
+1254,146,2023-12-08 06:24:51,iPhone,browse,604.96,smartphone,0
+1255,111,2023-11-12 09:09:43,iPad,click,912.6,tablet,0
+1256,228,2023-04-11 06:39:49,iPhone,browse,2760.59,smartphone,0
+1257,111,2023-09-01 20:57:31,Mac,add_to_cart,515.66,laptop,1
+1258,470,2023-01-12 05:16:30,iPad,view,2320.55,tablet,0
+1259,34,2023-08-27 22:19:20,AirPods,browse,2320.89,accessory,0
+1260,111,2023-02-18 10:01:21,iPhone,click,2467.17,smartphone,0
+1261,264,2023-02-11 03:03:53,Mac,view,2682.41,laptop,0
+1262,424,2023-06-15 04:30:41,Mac,add_to_cart,935.76,laptop,1
+1263,369,2023-03-23 01:38:59,Mac,add_to_cart,827.99,laptop,1
+1264,236,2023-10-18 13:12:42,iPhone,browse,1502.88,smartphone,0
+1265,83,2023-06-07 09:44:23,iPad,browse,941.51,tablet,0
+1266,42,2023-08-04 21:18:41,Mac,purchase,2255.8,laptop,1
+1267,425,2023-06-07 07:30:45,iPhone,add_to_cart,1980.27,smartphone,1
+1268,101,2023-05-14 12:26:09,iPhone,browse,2649.84,smartphone,0
+1269,6,2023-03-08 13:05:18,iPad,click,430.75,tablet,0
+1270,180,2023-12-02 23:31:43,iPad,view,2762.15,tablet,0
+1271,282,2023-01-07 06:00:25,iPhone,browse,1020.67,smartphone,0
+1272,320,2023-01-14 07:31:16,iPhone,add_to_cart,1573.43,smartphone,1
+1273,226,2023-03-14 18:00:05,iPhone,browse,1427.55,smartphone,0
+1274,443,2023-06-12 12:23:25,Mac,add_to_cart,2328.63,laptop,1
+1275,440,2023-03-07 23:29:25,Mac,browse,1376.35,laptop,0
+1276,315,2023-12-13 10:52:01,Mac,view,2841.89,laptop,0
+1277,365,2023-05-10 18:05:01,AirPods,browse,2727.0,accessory,0
+1278,454,2023-07-25 08:43:53,iPad,view,2641.92,tablet,0
+1279,229,2023-10-03 12:01:49,iPhone,view,398.59,smartphone,0
+1280,377,2023-09-13 18:44:28,iPhone,browse,2591.78,smartphone,1
+1281,289,2023-09-23 12:17:34,iPhone,view,2388.36,smartphone,0
+1282,437,2023-01-25 18:41:33,Apple Watch,view,488.94,wearable,0
+1283,150,2023-10-08 10:30:53,iPad,browse,499.87,tablet,0
+1284,277,2023-09-10 10:40:05,iPhone,click,482.36,smartphone,1
+1285,198,2023-11-06 18:30:52,iPhone,browse,230.74,smartphone,0
+1286,70,2023-10-16 12:05:27,iPad,view,1735.72,tablet,0
+1287,112,2023-06-13 21:27:07,Mac,view,2925.48,laptop,1
+1288,4,2023-04-05 00:08:12,iPhone,view,1427.76,smartphone,0
+1289,350,2023-09-27 02:26:51,AirPods,browse,1713.66,accessory,0
+1290,331,2023-11-17 06:44:32,iPad,view,2910.28,tablet,0
+1291,446,2023-04-20 20:00:10,iPhone,view,913.77,smartphone,0
+1292,318,2023-12-02 13:05:53,Apple Watch,click,2603.58,wearable,1
+1293,350,2023-11-06 15:01:50,iPhone,click,1729.44,smartphone,1
+1294,95,2023-08-26 03:52:59,Apple Watch,view,1794.1,wearable,0
+1295,152,2023-01-25 07:52:08,AirPods,browse,1160.23,accessory,0
+1296,311,2023-05-21 03:34:27,Mac,browse,1772.0,laptop,0
+1297,137,2023-04-27 16:27:14,Mac,browse,403.87,laptop,0
+1298,247,2023-01-25 07:10:51,iPhone,browse,2340.77,smartphone,0
+1299,387,2023-03-20 08:41:19,Apple Watch,browse,996.41,wearable,0
+1300,243,2023-03-09 20:23:22,iPad,browse,2685.19,tablet,0
+1301,31,2023-06-22 04:17:29,Mac,browse,1229.35,laptop,0
+1302,40,2023-01-12 21:10:21,Apple Watch,browse,599.05,wearable,0
+1303,229,2023-10-15 01:30:51,AirPods,browse,2148.16,accessory,0
+1304,36,2023-05-08 11:28:36,Mac,browse,659.98,laptop,0
+1305,408,2023-04-06 17:31:04,iPhone,browse,2310.06,smartphone,0
+1306,223,2023-04-02 17:42:41,AirPods,view,2910.68,accessory,0
+1307,6,2023-05-21 10:47:50,Mac,view,2382.53,laptop,0
+1308,322,2023-01-31 08:34:33,Apple Watch,browse,261.88,wearable,0
+1309,468,2023-11-30 16:17:07,Mac,view,1879.28,laptop,1
+1310,220,2023-01-20 18:22:35,iPhone,browse,2146.85,smartphone,0
+1311,75,2023-05-26 07:02:52,iPhone,browse,2511.11,smartphone,0
+1312,4,2023-11-12 01:00:42,iPad,browse,355.86,tablet,0
+1313,335,2023-06-09 07:46:41,Mac,view,1543.78,laptop,1
+1314,134,2023-12-15 09:27:44,iPhone,view,1698.57,smartphone,0
+1315,118,2023-02-12 03:55:22,iPad,browse,672.72,tablet,0
+1316,369,2023-09-11 06:53:40,iPhone,browse,1102.18,smartphone,0
+1317,94,2023-05-10 19:00:31,Mac,add_to_cart,1432.06,laptop,1
+1318,486,2023-03-01 15:29:05,iPad,browse,2532.82,tablet,0
+1319,435,2023-05-31 13:54:41,iPhone,browse,2802.27,smartphone,0
+1320,62,2023-10-14 19:41:42,iPhone,add_to_cart,1959.21,smartphone,0
+1321,441,2023-01-05 02:25:11,iPhone,click,1305.24,smartphone,0
+1322,194,2023-09-23 23:38:52,iPad,view,910.54,tablet,0
+1323,335,2023-12-11 05:13:13,iPhone,view,2949.96,smartphone,0
+1324,203,2023-05-10 02:16:39,iPhone,browse,2952.44,smartphone,0
+1325,392,2023-09-24 21:10:53,Apple Watch,browse,2789.86,wearable,0
+1326,26,2023-06-27 10:03:11,Apple Watch,view,2399.66,wearable,0
+1327,435,2023-09-10 02:50:11,iPad,browse,1111.51,tablet,0
+1328,173,2023-02-25 17:31:09,AirPods,view,2487.42,accessory,0
+1329,300,2023-03-24 15:45:46,iPhone,add_to_cart,1344.03,smartphone,0
+1330,133,2023-04-09 05:59:02,Mac,purchase,1114.29,laptop,1
+1331,326,2023-05-29 08:41:52,Mac,browse,2285.37,laptop,0
+1332,410,2023-11-25 12:34:02,iPad,view,422.11,tablet,0
+1333,118,2023-06-05 15:23:08,iPhone,view,335.02,smartphone,0
+1334,324,2023-07-09 07:41:31,iPad,add_to_cart,1453.72,tablet,0
+1335,275,2023-09-20 21:39:20,iPad,browse,1447.23,tablet,0
+1336,212,2023-03-21 23:26:28,Mac,browse,2707.7,laptop,0
+1337,225,2023-09-09 06:16:41,iPhone,browse,552.35,smartphone,0
+1338,20,2023-04-07 05:00:20,iPhone,browse,544.32,smartphone,0
+1339,113,2023-09-17 02:15:55,iPhone,browse,612.01,smartphone,0
+1340,140,2023-09-17 19:11:59,iPhone,click,282.29,smartphone,0
+1341,47,2023-04-13 22:30:51,iPad,view,399.92,tablet,0
+1342,1,2023-02-09 10:12:57,iPhone,browse,2047.3,smartphone,0
+1343,90,2023-09-30 05:28:30,Apple Watch,view,1407.87,wearable,0
+1344,142,2023-04-11 06:48:52,iPhone,browse,2337.85,smartphone,0
+1345,320,2023-12-25 05:10:01,iPhone,add_to_cart,2979.27,smartphone,0
+1346,38,2023-11-04 17:33:47,Mac,add_to_cart,2044.96,laptop,0
+1347,293,2023-08-09 01:22:47,iPhone,purchase,340.33,smartphone,1
+1348,382,2023-11-04 23:24:49,Mac,add_to_cart,491.88,laptop,1
+1349,139,2023-05-04 05:33:42,Mac,browse,2666.69,laptop,0
+1350,356,2023-08-19 12:04:23,iPhone,browse,1676.52,smartphone,0
+1351,333,2023-06-27 20:44:31,iPhone,view,2509.37,smartphone,0
+1352,491,2023-03-04 01:35:22,iPhone,add_to_cart,2598.37,smartphone,0
+1353,259,2023-04-26 07:36:53,iPhone,browse,2797.42,smartphone,0
+1354,161,2023-07-10 22:30:50,iPhone,browse,2859.47,smartphone,0
+1355,390,2023-03-03 23:51:07,iPhone,click,1753.07,smartphone,0
+1356,178,2023-09-13 23:13:16,iPhone,browse,1154.2,smartphone,0
+1357,10,2023-01-07 18:32:12,iPad,view,2893.18,tablet,0
+1358,261,2023-06-04 03:24:57,Mac,view,1732.29,laptop,0
+1359,407,2023-04-02 18:58:43,iPad,browse,378.97,tablet,0
+1360,138,2023-01-14 06:36:56,iPhone,browse,1999.42,smartphone,0
+1361,172,2023-08-17 11:18:15,iPhone,click,1845.1,smartphone,1
+1362,386,2023-03-27 05:28:22,Apple Watch,view,2708.12,wearable,0
+1363,13,2023-05-13 07:00:42,iPad,purchase,2028.58,tablet,1
+1364,168,2023-07-02 15:30:41,Apple Watch,browse,1176.7,wearable,0
+1365,130,2023-03-03 18:48:32,iPhone,browse,2905.4,smartphone,0
+1366,84,2023-08-07 23:47:43,Mac,click,2444.34,laptop,1
+1367,321,2023-09-03 14:52:54,iPad,view,1964.8,tablet,0
+1368,319,2023-08-18 23:49:04,iPhone,browse,1019.48,smartphone,0
+1369,101,2023-03-20 07:54:42,iPad,click,1245.29,tablet,0
+1370,329,2023-05-29 02:32:51,iPad,browse,2075.59,tablet,0
+1371,273,2023-05-18 01:01:36,iPhone,browse,400.62,smartphone,0
+1372,265,2023-11-10 05:34:18,iPhone,browse,917.96,smartphone,0
+1373,459,2023-03-06 05:38:33,Mac,browse,2198.64,laptop,0
+1374,399,2023-01-13 05:19:09,Apple Watch,view,1543.53,wearable,0
+1375,408,2023-08-01 14:52:01,iPhone,view,1326.1,smartphone,0
+1376,38,2023-08-30 12:42:20,iPhone,click,623.23,smartphone,0
+1377,419,2023-08-01 01:22:36,iPhone,add_to_cart,1436.62,smartphone,1
+1378,94,2023-06-30 21:02:11,Mac,browse,2357.71,laptop,0
+1379,95,2023-12-04 22:56:52,iPhone,browse,938.5,smartphone,0
+1380,305,2023-06-22 18:30:41,AirPods,browse,214.12,accessory,0
+1381,69,2023-06-09 17:43:31,iPhone,browse,2071.48,smartphone,0
+1382,318,2023-06-13 14:29:20,iPhone,view,2923.33,smartphone,0
+1383,444,2023-07-07 14:15:13,Mac,click,1898.72,laptop,0
+1384,236,2023-07-10 17:33:52,Mac,click,534.9,laptop,0
+1385,434,2023-11-04 04:16:57,iPad,browse,1097.37,tablet,0
+1386,334,2023-09-13 06:52:09,iPad,browse,2629.26,tablet,0
+1387,373,2023-07-02 08:21:39,AirPods,view,850.42,accessory,0
+1388,376,2023-04-27 08:19:21,iPhone,browse,1901.16,smartphone,0
+1389,459,2023-10-09 03:30:02,Apple Watch,view,1326.88,wearable,0
+1390,137,2023-07-15 02:34:16,iPhone,purchase,781.17,smartphone,1
+1391,418,2023-02-03 23:55:20,Mac,browse,2477.35,laptop,0
+1392,76,2023-02-21 09:38:01,Mac,click,2279.67,laptop,0
+1393,483,2023-04-22 17:59:49,iPhone,view,2052.12,smartphone,0
+1394,35,2023-09-09 12:02:41,Apple Watch,browse,860.98,wearable,0
+1395,1,2023-03-23 17:55:03,iPhone,view,473.1,smartphone,1
+1396,296,2023-08-20 09:35:40,iPhone,browse,1812.82,smartphone,0
+1397,320,2023-08-15 07:22:16,iPad,browse,1749.85,tablet,0
+1398,406,2023-08-21 23:31:40,iPhone,view,726.67,smartphone,0
+1399,60,2023-08-09 17:30:43,Mac,add_to_cart,356.55,laptop,1
+1400,320,2023-02-11 21:48:52,iPhone,browse,425.06,smartphone,0
+1401,349,2023-01-21 15:42:55,iPhone,browse,2979.75,smartphone,0
+1402,328,2023-02-11 00:47:51,iPhone,add_to_cart,2393.82,smartphone,1
+1403,267,2023-04-23 12:46:42,iPhone,click,2781.49,smartphone,0
+1404,361,2023-04-15 13:50:12,iPad,click,745.35,tablet,0
+1405,229,2023-07-11 06:17:06,Mac,browse,2889.55,laptop,0
+1406,270,2023-01-17 16:39:39,Apple Watch,add_to_cart,598.57,wearable,1
+1407,316,2023-04-30 21:07:37,Mac,browse,1624.94,laptop,0
+1408,286,2023-05-09 18:31:08,iPhone,view,2522.98,smartphone,1
+1409,291,2023-05-10 22:14:30,iPad,browse,1178.8,tablet,0
+1410,213,2023-03-01 11:56:38,iPhone,view,1388.94,smartphone,0
+1411,165,2023-02-17 17:43:34,iPhone,browse,558.05,smartphone,0
+1412,5,2023-01-29 12:40:07,iPad,view,543.3,tablet,0
+1413,339,2023-04-07 02:10:12,iPhone,browse,1934.41,smartphone,0
+1414,379,2023-01-10 17:10:44,iPhone,browse,2091.17,smartphone,0
+1415,78,2023-08-30 19:28:13,Apple Watch,view,2376.31,wearable,0
+1416,410,2023-11-10 00:36:19,iPad,add_to_cart,1758.27,tablet,1
+1417,62,2023-08-20 12:09:58,iPad,purchase,2007.77,tablet,1
+1418,132,2023-10-04 20:43:21,iPhone,browse,236.86,smartphone,0
+1419,89,2023-10-11 02:17:55,iPhone,click,653.24,smartphone,1
+1420,237,2023-07-22 14:02:54,Apple Watch,view,2957.75,wearable,0
+1421,42,2023-09-04 13:17:37,iPhone,browse,411.86,smartphone,0
+1422,89,2023-10-17 05:45:00,iPad,browse,2100.29,tablet,0
+1423,402,2023-09-21 10:57:44,iPhone,view,692.21,smartphone,0
+1424,296,2023-08-02 11:45:51,iPad,add_to_cart,2206.53,tablet,1
+1425,328,2023-07-19 22:55:34,iPhone,view,2176.48,smartphone,0
+1426,295,2023-03-20 03:51:09,Mac,view,854.99,laptop,0
+1427,104,2023-12-09 16:45:15,Mac,view,954.25,laptop,0
+1428,14,2023-12-10 05:49:14,Mac,browse,2033.01,laptop,0
+1429,288,2023-06-22 08:45:55,iPhone,click,1291.63,smartphone,0
+1430,179,2023-03-10 17:35:53,Mac,click,743.93,laptop,0
+1431,125,2023-03-28 22:49:50,iPad,browse,2248.43,tablet,0
+1432,422,2023-04-11 12:30:26,iPhone,add_to_cart,630.77,smartphone,1
+1433,353,2023-01-08 13:02:56,Mac,browse,2595.66,laptop,0
+1434,23,2023-11-29 22:22:58,iPhone,purchase,1640.59,smartphone,1
+1435,63,2023-07-19 12:31:35,iPhone,browse,495.07,smartphone,0
+1436,143,2023-03-28 03:57:50,Mac,browse,2143.1,laptop,0
+1437,481,2023-02-12 08:35:08,iPhone,browse,1653.18,smartphone,0
+1438,153,2023-04-19 04:18:43,iPad,view,1033.86,tablet,0
+1439,145,2023-06-01 17:20:33,iPhone,browse,1382.53,smartphone,0
+1440,225,2023-01-17 13:04:28,Apple Watch,view,1034.64,wearable,0
+1441,495,2023-05-13 05:33:11,AirPods,view,935.74,accessory,0
+1442,450,2023-05-28 02:59:35,Apple Watch,click,657.27,wearable,0
+1443,462,2023-10-04 21:36:41,iPhone,browse,1215.11,smartphone,0
+1444,309,2023-08-20 23:36:35,iPhone,view,902.02,smartphone,0
+1445,104,2023-11-10 17:00:50,iPad,browse,2113.3,tablet,0
+1446,104,2023-08-16 04:37:53,iPhone,click,2114.54,smartphone,0
+1447,435,2023-05-19 07:30:56,iPhone,browse,1604.65,smartphone,0
+1448,39,2023-07-30 01:50:14,iPad,add_to_cart,2378.02,tablet,0
+1449,435,2023-01-28 02:03:35,iPad,click,2555.59,tablet,1
+1450,198,2023-02-20 12:11:24,AirPods,view,1822.93,accessory,0
+1451,134,2023-09-18 04:42:44,iPhone,view,1932.64,smartphone,0
+1452,67,2023-09-18 10:28:46,iPhone,browse,991.36,smartphone,0
+1453,391,2023-12-16 10:17:24,iPhone,browse,2705.53,smartphone,0
+1454,179,2023-12-18 15:52:29,Apple Watch,add_to_cart,266.8,wearable,0
+1455,456,2023-01-08 10:25:44,Mac,add_to_cart,1175.44,laptop,1
+1456,42,2023-11-16 13:52:56,Mac,browse,2220.76,laptop,0
+1457,448,2023-05-18 08:57:32,Apple Watch,view,423.33,wearable,1
+1458,15,2023-02-07 01:03:52,iPad,click,712.06,tablet,0
+1459,111,2023-04-21 22:20:37,iPad,view,1849.59,tablet,0
+1460,157,2023-08-08 09:29:08,iPhone,browse,1767.54,smartphone,0
+1461,289,2023-12-03 17:00:40,iPad,browse,2268.74,tablet,0
+1462,478,2023-08-11 23:37:56,iPad,browse,2475.13,tablet,0
+1463,231,2023-05-16 21:25:16,iPad,click,559.15,tablet,0
+1464,411,2023-09-13 14:50:59,Apple Watch,view,250.49,wearable,0
+1465,420,2023-12-26 10:40:02,AirPods,view,2130.68,accessory,0
+1466,157,2023-11-25 16:02:07,Mac,add_to_cart,1043.2,laptop,0
+1467,38,2023-02-18 10:42:58,Mac,view,1952.38,laptop,1
+1468,441,2023-10-19 06:11:58,Mac,add_to_cart,620.68,laptop,1
+1469,97,2023-11-20 21:01:55,iPhone,view,1512.78,smartphone,0
+1470,485,2023-03-19 21:36:27,iPhone,browse,1611.89,smartphone,0
+1471,411,2023-04-15 23:37:09,Mac,add_to_cart,1837.8,laptop,0
+1472,439,2023-06-18 05:41:06,Mac,view,1636.39,laptop,0
+1473,289,2023-08-05 12:37:55,iPhone,browse,1587.43,smartphone,0
+1474,254,2023-04-29 16:42:22,Apple Watch,browse,1130.99,wearable,0
+1475,196,2023-07-09 23:39:20,iPhone,browse,398.38,smartphone,0
+1476,86,2023-09-12 07:22:44,iPhone,view,449.75,smartphone,0
+1477,322,2023-09-23 06:13:32,Mac,add_to_cart,1414.01,laptop,1
+1478,10,2023-05-29 14:10:01,iPhone,add_to_cart,1195.58,smartphone,0
+1479,5,2023-06-13 16:00:49,iPhone,add_to_cart,1644.69,smartphone,1
+1480,123,2023-05-20 16:55:57,iPhone,browse,1052.85,smartphone,0
+1481,330,2023-12-13 09:51:57,Mac,browse,2125.84,laptop,0
+1482,353,2023-09-15 03:39:16,iPad,browse,2618.94,tablet,0
+1483,118,2023-09-26 06:24:24,Mac,add_to_cart,1036.12,laptop,1
+1484,294,2023-06-30 07:08:31,iPad,browse,739.55,tablet,0
+1485,397,2023-06-09 08:21:46,iPhone,view,524.42,smartphone,0
+1486,159,2023-12-17 18:10:58,AirPods,click,1925.13,accessory,0
+1487,303,2023-10-15 04:36:29,iPhone,view,1442.24,smartphone,0
+1488,228,2023-10-15 02:00:14,AirPods,browse,725.63,accessory,0
+1489,365,2023-08-14 23:48:51,iPad,purchase,2028.44,tablet,1
+1490,216,2023-01-11 07:32:07,AirPods,purchase,614.9,accessory,1
+1491,436,2023-01-10 01:25:41,iPhone,browse,1751.6,smartphone,0
+1492,184,2023-09-28 08:01:24,iPad,view,1675.54,tablet,0
+1493,15,2023-09-30 00:45:08,iPhone,purchase,2255.57,smartphone,1
+1494,157,2023-07-02 05:06:15,iPhone,browse,353.36,smartphone,0
+1495,136,2023-06-02 04:11:28,Mac,view,2685.93,laptop,0
+1496,261,2023-11-11 16:00:15,iPhone,browse,2168.08,smartphone,0
+1497,157,2023-11-30 12:30:46,iPad,view,804.37,tablet,0
+1498,47,2023-05-04 02:46:54,iPhone,browse,712.72,smartphone,0
+1499,324,2023-04-24 17:53:45,iPhone,view,1408.08,smartphone,0
+1500,332,2023-10-05 00:54:33,Mac,browse,2489.0,laptop,0
