@@ -245,45 +245,6 @@ def factorial_iterative(n):
 
 ## Data Analysis and Problem Solving
 
-### Exploratory Data Analysis Approach
-1. **Initial data understanding**: Size, shape, types, basic statistics
-2. **Data quality assessment**: Missing values, duplicates, outliers
-3. **Univariate analysis**: Distribution of individual variables (histograms, box plots)
-4. **Bivariate analysis**: Relationships between variables (scatter plots, correlation)
-5. **Feature engineering**: Create meaningful derived variables
-6. **Pattern identification**: Look for trends, seasonality, clusters
-7. **Hypothesis generation**: Develop questions to test based on observations
-8. **Visualization**: Create informative plots to communicate findings
-
-### Designing an A/B Test
-1. **Define metrics**: Primary and secondary success metrics
-2. **Formulate hypotheses**: Null and alternative, expected effect
-3. **Calculate sample size**: Based on minimum detectable effect, power, significance
-4. **Randomization strategy**: User-level vs. session-level assignment
-5. **Experiment duration**: Based on user cycles and statistical power
-6. **Implementation**: Split traffic, gather data, monitor for issues
-7. **Analysis**: Hypothesis testing, segmentation analysis, check assumptions
-8. **Documentation**: Record methodology, results, and recommendations
-
-### Handling Outliers
-1. **Identify outliers**: Statistical methods (Z-score, IQR) or visualization
-2. **Investigate root causes**: Data entry errors, measurement issues, or valid extremes
-3. **Decision-making**: Based on outlier type and analysis goals
-   - Remove if erroneous or highly influential
-   - Transform data (log, sqrt) to reduce impact
-   - Cap at percentiles (winsorizing)
-   - Use robust statistical methods
-   - Create separate models for outlier groups if meaningful
-
-### Communicating Findings to Non-Technical Audience
-1. **Focus on business impact**: Lead with key insights and recommendations
-2. **Use storytelling**: Create a narrative around the data
-3. **Visual simplicity**: Clean, labeled charts without technical jargon
-4. **Avoid statistical complexity**: Translate p-values and coefficients into plain language
-5. **Use analogies**: Relate complex concepts to familiar scenarios
-6. **Interactive demonstrations**: Allow exploration of key relationships
-7. **Prepare for questions**: Anticipate concerns and have supporting details ready
-
 ### Data-Driven Problem Solving
 For a business problem like "How can we reduce customer churn?":
 
