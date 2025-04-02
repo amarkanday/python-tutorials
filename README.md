@@ -1,6 +1,6 @@
 # Python Data Science Tutorials
 
-This repository contains a collection of Python tutorials and exercises focused on data science, machine learning, and data analysis. The tutorials are designed to help you learn and practice various data science concepts through hands-on examples.
+This repository contains a collection of Python tutorials and exercises focused on data science, machine learning, and data analysis. The tutorials are designed to help you learn and practice various data science concepts through hands-on examples. Tests are modeled on what one would expect in a ML coding interview.
 
 ## Project Structure
 
