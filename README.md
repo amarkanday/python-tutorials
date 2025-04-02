@@ -71,7 +71,7 @@ python-tutorials/
 
 ## Tutorials Folder Structure
 
-The `Tutorials/` directory is organized into four main subdirectories:
+The `Tutorials/` directory is organized into 3 main subdirectories:
 
 ### 1. Core Tutorials (`Tutorials/core_tutorials/`)
 
