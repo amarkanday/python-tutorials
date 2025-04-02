@@ -177,25 +177,6 @@ The solutions are provided as a reference after you've attempted the exercises y
 - Industry-specific solutions
 - Emerging trends in data science
 
-## Data Files
-
-The `data/` directory is organized as follows:
-
-### Raw Data (`data/raw/`)
-- Original, immutable datasets
-- Real-world datasets for practice
-- Sample datasets for exercises
-
-### Processed Data (`data/processed/`)
-- Cleaned and preprocessed datasets
-- Feature-engineered datasets
-- Normalized and standardized data
-
-### Synthetic Data (`data/synthetic/`)
-- Generated datasets for specific exercises
-- Test datasets for algorithm validation
-- Simulated data for controlled experiments
-
 
 ## Contributing
 
