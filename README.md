@@ -1,4 +1,4 @@
-# A guide to learn Pythin Data Scince and Machine learning concepts, algorithms, sample tests with solutions.
+# A guide to learn Python Data Scince and Machine learning concepts, algorithms, sample tests with solutions.
 
 ### A quick introduction to Data analysis and machine learning in Python 
 
