@@ -23,12 +23,8 @@ python-tutorials/
 │   │   └── viz_utils.py   # Visualization utilities
 │   └── solutions/         # Solution notebooks for exercises
 ├── data/                  # Data files used in tutorials
-│   ├── raw/              # Original, immutable data
-│   ├── processed/        # Cleaned and processed datasets
-│   └── synthetic/        # Generated synthetic data
 ├── docs/                  # Documentation files
 │   ├── tutorials/        # Detailed tutorial documentation
-│   └── api/             # API documentation
 ├── requirements.txt       # Python package dependencies
 └── README.md             # This file
 ```
